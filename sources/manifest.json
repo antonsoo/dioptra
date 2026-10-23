@@ -1,0 +1,59 @@
+{
+  "edition": "Hermann Schöne, Herons von Alexandria Vermessungslehre und Dioptra (1903), pp. 238–241",
+  "pdfUrl": "https://archive.org/download/heronisalexandr00schogoog/heronisalexandr00schogoog.pdf",
+  "pdfSha256": "d8c5aaa7c5757ffbc7a4e1a57286c23bd341a547a7c042d58cee5c4c9da438b5",
+  "pdfPages": [
+    255,
+    256,
+    257,
+    258
+  ],
+  "printPages": [
+    238,
+    239,
+    240,
+    241
+  ],
+  "rendering": "pdftoppm JPEG quality 90; longest edge 1700 for p.238, 1550 for pp.239–241",
+  "scansLicense": "Public domain historical text and illustration",
+  "teiUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/25b9f2150cfd329d94177e86e334d35487a07d3b/data/tlg0559/tlg007/tlg0559.tlg007.1st1K-grc1.xml",
+  "teiLicense": "CC BY-SA 4.0; Harvard College Library, 2018; encoding/correction Digital Divide Data, Open Greek and Latin / Perseus project",
+  "files": [
+    {
+      "file": "CC-BY-SA-4.0.txt",
+      "bytes": 20138,
+      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5"
+    },
+    {
+      "file": "NOTICES.txt",
+      "bytes": 2457,
+      "sha256": "5a16d7cb7a936d085bae7b4292047bf026a94eb961d03415bf928b9c4e5071fb"
+    },
+    {
+      "file": "dioptra-grc.xml",
+      "bytes": 178478,
+      "sha256": "2a6c4f7e939c8d26dff32ce6713a57c750693cadd69b6c91abe8c19c2fbda37e"
+    },
+    {
+      "file": "schone-238.jpg",
+      "bytes": 288094,
+      "sha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7"
+    },
+    {
+      "file": "schone-239.jpg",
+      "bytes": 423176,
+      "sha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20"
+    },
+    {
+      "file": "schone-240.jpg",
+      "bytes": 412879,
+      "sha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40"
+    },
+    {
+      "file": "schone-241.jpg",
+      "bytes": 440739,
+      "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d"
+    }
+  ],
+  "teiCommit": "25b9f2150cfd329d94177e86e334d35487a07d3b"
+}

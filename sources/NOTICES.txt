@@ -1,0 +1,43 @@
+DIOPTRA — SOURCE AND REDISTRIBUTION NOTICES
+
+Code and new geometric diagrams:
+Copyright (c) 2026 Anton Soloviev. MIT license; see the repository LICENSE.
+
+Greek digital transcription:
+Hero of Alexandria, Dioptra, edited by Hermann Schöne, in Herons von
+Alexandria Vermessungslehre und Dioptra (Teubner, Leipzig, 1903).
+Digital edition: Harvard College Library, 2018, Open Greek and Latin / Perseus.
+Corrected and encoded by Digital Divide Data. Project editor Gregory Crane;
+project managers Matt Munson and Annette Gessner; lead developer Thibault
+Clérice; technical advisor Bruce Robertson. Funded by the Harvard Library
+Arcadia Fund. The complete included TEI header records these credits.
+https://github.com/OpenGreekAndLatin/First1KGreek/blob/25b9f2150cfd329d94177e86e334d35487a07d3b/data/tlg0559/tlg007/tlg0559.tlg007.1st1K-grc1.xml
+License: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+The eight displayed Greek selections adapt that digital transcription.
+Changes: ordinary Greek delta Δ replaces the transcription's ∠; line-end
+hyphens and whitespace are joined; line numbers and apparatus are omitted
+from the selections; apostrophes are normalized; editorial supplements use
+visible angle brackets. The source-file copy itself is unchanged.
+
+New English translation, grammar, historical notes and teaching prose:
+Copyright (c) 2026 Anton Soloviev. CC BY-SA 4.0, the same license as the
+adapted Greek selections. Attribution must accompany redistribution; adapted
+teaching text must be shared under the same license. The full legal code is
+included as CC-BY-SA-4.0.txt. This does not restrict public-domain material.
+
+Historical page images:
+Schöne (1903), printed pp. 238–241, including figure 95 and the German
+translation and apparatus. Public-domain historical text and illustration.
+The complete scan was retrieved from Internet Archive, identifier
+heronisalexandr00schogoog. Google Books digitization. The included JPEGs are
+full-page rasterizations, not modern reconstructed archaeological plans.
+Source identity, PDF page mapping and SHA-256 values are in manifest.json.
+
+Fonts:
+Noto Serif and IBM Plex Sans are distributed under SIL Open Font License 1.1.
+The original notices accompany the fonts in ../fonts/. Portable study files
+embed the fonts together with their complete notices.
+
+No source institution or editor is represented as endorsing this application.
