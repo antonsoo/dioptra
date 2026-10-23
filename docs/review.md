@@ -75,5 +75,11 @@ the same chosen state as the HTML.
 
 ## Publication
 
-Public-file identity and direct HTTPS browser verification are recorded separately
-after deployment. The local evidence above does not establish publication.
+The public repository is [antonsoo/dioptra](https://github.com/antonsoo/dioptra).
+Pages deployment `5326e45` serves the [workshop](https://antonsoo.github.io/dioptra/).
+All 18 public files matched the reviewed build by SHA-256 over direct HTTPS.
+Chromium and Firefox at 1440 and 375 pixels then exercised native controls,
+actual HTML/SVG/CSV downloads, the saved HTML’s embedded CSV, and a reload with
+another printed source page after disconnecting the network. All four passed.
+The [hosted receipt](review/hosted.json) records this separately from local review.
+Reproduce with `node scripts/hosted-review.mjs /tmp/dioptra-hosted`.
