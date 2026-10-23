@@ -1,0 +1,8 @@
+{
+  "method": "Exact rational reconstruction of all circuit legs and similar-triangle intersections at the middle station",
+  "cases": 576,
+  "comparisons": 19008,
+  "maximumAbsoluteDiscrepancy": 2.9103830456733704e-11,
+  "tolerance": 1e-9,
+  "allPassed": true
+}

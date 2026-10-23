@@ -1,0 +1,246 @@
+{
+  "method": "Poppler layout-preserving text extraction; NFC and whitespace normalization; complete paragraph inclusion",
+  "pdfSha256": "09a2e6f9b971ef56f74beb08b5864af73f84b9b7f5a0d81d6b7569c548fc30c7",
+  "checks": [
+    {
+      "passage": 1,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "action",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "action",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "action",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "action",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "action",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "action",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "action",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "grammar",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "action",
+      "present": true
+    }
+  ]
+}
