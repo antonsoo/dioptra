@@ -1,0 +1,8 @@
+{
+  "method": "Exact rational one-tenth-second water packets integrated independently of application formulas",
+  "cases": 30,
+  "frameComparisons": 540,
+  "maxAbsoluteErrorLOrLPerSecond": 7.105427357601002e-15,
+  "conservation": true,
+  "switchContinuityAndBothSides": true
+}

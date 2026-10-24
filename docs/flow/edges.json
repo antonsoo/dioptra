@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-10-24T04:16:11.691Z",
+  "base": "http://127.0.0.1:4414/dioptra/",
+  "configurations": [
+    {
+      "browser": "chromium",
+      "width": 375,
+      "layouts": 6,
+      "svgTextClipping": 0,
+      "pageOverflow": 0,
+      "noAutoplayUnderReducedMotion": true,
+      "invalidAndDuplicateQueryRejected": true
+    },
+    {
+      "browser": "chromium",
+      "width": 900,
+      "layouts": 6,
+      "svgTextClipping": 0,
+      "pageOverflow": 0,
+      "noAutoplayUnderReducedMotion": true,
+      "invalidAndDuplicateQueryRejected": true
+    },
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "layouts": 6,
+      "svgTextClipping": 0,
+      "pageOverflow": 0,
+      "noAutoplayUnderReducedMotion": true,
+      "invalidAndDuplicateQueryRejected": true
+    },
+    {
+      "browser": "firefox",
+      "width": 375,
+      "layouts": 6,
+      "svgTextClipping": 0,
+      "pageOverflow": 0,
+      "noAutoplayUnderReducedMotion": true,
+      "invalidAndDuplicateQueryRejected": true
+    },
+    {
+      "browser": "firefox",
+      "width": 900,
+      "layouts": 6,
+      "svgTextClipping": 0,
+      "pageOverflow": 0,
+      "noAutoplayUnderReducedMotion": true,
+      "invalidAndDuplicateQueryRejected": true
+    },
+    {
+      "browser": "firefox",
+      "width": 1440,
+      "layouts": 6,
+      "svgTextClipping": 0,
+      "pageOverflow": 0,
+      "noAutoplayUnderReducedMotion": true,
+      "invalidAndDuplicateQueryRejected": true
+    }
+  ]
+}

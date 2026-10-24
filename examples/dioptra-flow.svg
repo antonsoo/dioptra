@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="fl-svg" viewBox="0 0 760 515" role="img" aria-labelledby="flow-title"><title id="flow-title">Equal sections, measured supplies · Dioptra 31</title><metadata>MIT License
+
+Copyright (c) 2026 Anton Soloviev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Modern ideal experiment, not an ancient measurement.</metadata><style>.fl-svg{display:block;width:100%;height:auto;color:#223e4b}.fl-svg text{font:14px system-ui,sans-serif;fill:#223e4b}.fl-svg .fl-title{font-size:20px;font-weight:600}.fl-svg .fl-large{font-size:29px;font-weight:600}.fl-svg .fl-small{font-size:12px}.fl-svg .fl-a{fill:#466b92}.fl-svg .fl-b{fill:#4a877a}.fl-svg .fl-stroke-a{stroke:#365f89}.fl-svg .fl-stroke-b{stroke:#357568}.fl-svg .fl-outline{stroke:#223e4b;stroke-width:1.5;fill:none}.fl-svg .fl-grid{stroke:#c3d0d0;stroke-width:1}.fl-svg .fl-track{fill:none;stroke-width:3}.fl-svg .fl-label-bg{fill:#f2f6f5}</style><rect width="760" height="515" fill="#f2f6f5"/><text x="20" y="30" font-family="sans-serif" font-size="20" fill="#223e4b">Equal sections. Different supplies.</text><svg x="10" y="45" width="360" height="445"><title id="export-a-title">Stream A: 9.6 litres after 20 seconds</title><desc id="export-a-desc">Wetted section 12 by 4 centimetres, area 48 square centimetres. Current mean speed 10 centimetres per second. The receiver has the same sixty-litre scale as the other stream.</desc>
+<text x="20" y="27" class="fl-title">Stream A</text><text x="340" y="27" text-anchor="end">10 cm/s now</text>
+<text x="20" y="58" class="fl-small">WETTED END VIEW</text><text x="200" y="58" class="fl-small">ONE-SECOND SIDE VIEW</text>
+<rect x="20" y="70" width="96" height="32" class="fl-a" opacity=".75" data-section-area="48"/>
+<rect x="20" y="70" width="96" height="32" class="fl-outline"/>
+<rect x="200" y="70" width="40" height="16" class="fl-a" opacity=".75"/>
+<path d="M200 128h40m-5 -4l5 4 -5 4" class="fl-outline"/>
+<text x="20" y="151">12 × 4 cm</text><text x="200" y="151">10 cm travelled</text>
+<text x="20" y="176" class="fl-small">48 cm² × 10 cm/s = 0.48 L/s</text>
+<text x="20" y="210" class="fl-small">COMPLETE COLLECTION · SAME 60 L SCALE</text>
+<path d="M60 400h240" class="fl-grid"/><text x="310" y="405" class="fl-small">0 L</text><path d="M60 360h240" class="fl-grid"/><text x="310" y="365" class="fl-small">15 L</text><path d="M60 320h240" class="fl-grid"/><text x="310" y="325" class="fl-small">30 L</text><path d="M60 280h240" class="fl-grid"/><text x="310" y="285" class="fl-small">45 L</text><path d="M60 240h240" class="fl-grid"/><text x="310" y="245" class="fl-small">60 L</text>
+<rect x="60" y="374.4" width="240" height="25.6" class="fl-a" opacity=".7" data-collected-litres="9.6"/>
+<path d="M60 234v166h240V234" class="fl-outline"/>
+<rect x="95" y="285" width="170" height="52" rx="2" class="fl-label-bg" opacity=".93"/><text x="180" y="320" text-anchor="middle" class="fl-large">9.6 L</text>
+<text x="180" y="430" text-anchor="middle">at 20 s of the recorded 20 s run</text></svg><svg x="390" y="45" width="360" height="445"><title id="export-b-title">Stream B: 19.2 litres after 20 seconds</title><desc id="export-b-desc">Wetted section 12 by 4 centimetres, area 48 square centimetres. Current mean speed 10 centimetres per second. The receiver has the same sixty-litre scale as the other stream.</desc>
+<text x="20" y="27" class="fl-title">Stream B</text><text x="340" y="27" text-anchor="end">10 cm/s now</text>
+<text x="20" y="58" class="fl-small">WETTED END VIEW</text><text x="200" y="58" class="fl-small">ONE-SECOND SIDE VIEW</text>
+<rect x="20" y="70" width="96" height="32" class="fl-b" opacity=".75" data-section-area="48"/>
+<rect x="20" y="70" width="96" height="32" class="fl-outline"/>
+<rect x="200" y="70" width="40" height="16" class="fl-b" opacity=".75"/>
+<path d="M200 128h40m-5 -4l5 4 -5 4" class="fl-outline"/>
+<text x="20" y="151">12 × 4 cm</text><text x="200" y="151">10 cm travelled</text>
+<text x="20" y="176" class="fl-small">48 cm² × 10 cm/s = 0.48 L/s</text>
+<text x="20" y="210" class="fl-small">COMPLETE COLLECTION · SAME 60 L SCALE</text>
+<path d="M60 400h240" class="fl-grid"/><text x="310" y="405" class="fl-small">0 L</text><path d="M60 360h240" class="fl-grid"/><text x="310" y="365" class="fl-small">15 L</text><path d="M60 320h240" class="fl-grid"/><text x="310" y="325" class="fl-small">30 L</text><path d="M60 280h240" class="fl-grid"/><text x="310" y="285" class="fl-small">45 L</text><path d="M60 240h240" class="fl-grid"/><text x="310" y="245" class="fl-small">60 L</text>
+<rect x="60" y="348.8" width="240" height="51.2" class="fl-b" opacity=".7" data-collected-litres="19.2"/>
+<path d="M60 234v166h240V234" class="fl-outline"/>
+<rect x="95" y="285" width="170" height="52" rx="2" class="fl-label-bg" opacity=".93"/><text x="180" y="320" text-anchor="middle" class="fl-large">19.2 L</text>
+<text x="180" y="430" text-anchor="middle">at 20 s of the recorded 20 s run</text></svg><text x="20" y="508" font-family="sans-serif" font-size="12" fill="#223e4b">Chosen cm, seconds and litres. Complete collection; B changes to A’s speed after 10 s.</text></svg>

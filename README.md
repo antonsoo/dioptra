@@ -14,6 +14,25 @@ describes them, and distinguish the ideal proof from a deliberately displaced pe
 
 ![The measured circuit, outside aiming points and two lines through the mountain](docs/assets/survey-desktop.png)
 
+## Water needs a clock
+
+The new `flow.html` room reads **Dioptra 31**. Two equal stream sections collect
+9.6 and 28.8 litres in twenty chosen modern seconds. Change the second flow
+halfway through: the total becomes 19.2 litres, and the first ten seconds now
+predict too much. Measure the first, last and whole intervals against the record.
+
+![Equal stream sections and unequal supplies](docs/assets/flow-collection.png)
+
+Read the complete chapter in eleven Greek-and-English units, inspect four full
+pages with the facing German, and investigate the printed **τάχος / πάχος**
+(speed/thickness) distinction. Save a complete HTML reading, printable PDF,
+receiver SVG or collection CSV. The centimetres, seconds and switching schedule
+are explicit modern teaching choices, not measurements of an ancient spring.
+
+[Model and source decisions](docs/flow-model.md) · [Review](docs/flow-review.md) ·
+[Saved reading](examples/dioptra-flow-reading.html) ·
+[Printable reading](examples/dioptra-flow-reading.pdf).
+
 ## Try the construction
 
 1. **Walk around.** Select any of the seven measured legs. Move the bends: the

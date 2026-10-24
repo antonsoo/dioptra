@@ -1,0 +1,231 @@
+{
+  "checkedAt": "2026-10-24T04:15:33.325Z",
+  "mode": "development",
+  "workerSha256": "a95b11ac33516137c1e088e4e7b0f980755ee19ee810a66afb94f566e7fac892",
+  "configurations": [
+    {
+      "engine": "chromium",
+      "version": "153.0.8010.12",
+      "width": 1440,
+      "defaultVolumesL": [9.6, 28.8],
+      "changingVolumeL": 19.2,
+      "firstWindowOverestimateL": 9.6,
+      "lastWindowUnderestimateL": 9.6,
+      "wholeAverageLPerSecond": 0.96,
+      "keyboard": true,
+      "replayPaused": true,
+      "historyRestored": true,
+      "querySurvivesSectionNavigation": true,
+      "shared": "http://127.0.0.1:4414/dioptra/flow.html?w=12&d=4&a=10&b=30&v=1&t=20&m=whole&r=0#fl-workshop",
+      "readings": 11,
+      "questions": 3,
+      "sourcePagesDecoded": 4,
+      "sourceZoom": true,
+      "receiverHeightsUseSameScale": [
+        {
+          "litres": 9.6,
+          "height": 25.6
+        },
+        {
+          "litres": 19.2,
+          "height": 51.2
+        }
+      ],
+      "standaloneSvgColorsVerified": true,
+      "readingBytes": 2661727,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84"
+        },
+        {
+          "width": 1079,
+          "sha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638"
+        },
+        {
+          "width": 1079,
+          "sha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f"
+        },
+        {
+          "width": 1079,
+          "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1"
+        }
+      ],
+      "embeddedCsvMatches": true,
+      "offlineRooms": [],
+      "offlineMethod": "Not enabled in development",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    },
+    {
+      "engine": "chromium",
+      "version": "153.0.8010.12",
+      "width": 375,
+      "defaultVolumesL": [9.6, 28.8],
+      "changingVolumeL": 19.2,
+      "firstWindowOverestimateL": 9.6,
+      "lastWindowUnderestimateL": 9.6,
+      "wholeAverageLPerSecond": 0.96,
+      "keyboard": true,
+      "replayPaused": true,
+      "historyRestored": true,
+      "querySurvivesSectionNavigation": true,
+      "shared": "http://127.0.0.1:4414/dioptra/flow.html?w=12&d=4&a=10&b=30&v=1&t=20&m=whole&r=0#fl-workshop",
+      "readings": 11,
+      "questions": 3,
+      "sourcePagesDecoded": 4,
+      "sourceZoom": true,
+      "receiverHeightsUseSameScale": [
+        {
+          "litres": 9.6,
+          "height": 25.6
+        },
+        {
+          "litres": 19.2,
+          "height": 51.2
+        }
+      ],
+      "standaloneSvgColorsVerified": true,
+      "readingBytes": 2661727,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84"
+        },
+        {
+          "width": 1079,
+          "sha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638"
+        },
+        {
+          "width": 1079,
+          "sha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f"
+        },
+        {
+          "width": 1079,
+          "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1"
+        }
+      ],
+      "embeddedCsvMatches": true,
+      "offlineRooms": [],
+      "offlineMethod": "Not enabled in development",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    },
+    {
+      "engine": "firefox",
+      "version": "155.0",
+      "width": 1440,
+      "defaultVolumesL": [9.6, 28.8],
+      "changingVolumeL": 19.2,
+      "firstWindowOverestimateL": 9.6,
+      "lastWindowUnderestimateL": 9.6,
+      "wholeAverageLPerSecond": 0.96,
+      "keyboard": true,
+      "replayPaused": true,
+      "historyRestored": true,
+      "querySurvivesSectionNavigation": true,
+      "shared": "http://127.0.0.1:4414/dioptra/flow.html?w=12&d=4&a=10&b=30&v=1&t=20&m=whole&r=0#fl-workshop",
+      "readings": 11,
+      "questions": 3,
+      "sourcePagesDecoded": 4,
+      "sourceZoom": true,
+      "receiverHeightsUseSameScale": [
+        {
+          "litres": 9.6,
+          "height": 25.6
+        },
+        {
+          "litres": 19.2,
+          "height": 51.2
+        }
+      ],
+      "standaloneSvgColorsVerified": true,
+      "readingBytes": 2661727,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84"
+        },
+        {
+          "width": 1079,
+          "sha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638"
+        },
+        {
+          "width": 1079,
+          "sha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f"
+        },
+        {
+          "width": 1079,
+          "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1"
+        }
+      ],
+      "embeddedCsvMatches": true,
+      "offlineRooms": [],
+      "offlineMethod": "Not enabled in development",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    },
+    {
+      "engine": "firefox",
+      "version": "155.0",
+      "width": 375,
+      "defaultVolumesL": [9.6, 28.8],
+      "changingVolumeL": 19.2,
+      "firstWindowOverestimateL": 9.6,
+      "lastWindowUnderestimateL": 9.6,
+      "wholeAverageLPerSecond": 0.96,
+      "keyboard": true,
+      "replayPaused": true,
+      "historyRestored": true,
+      "querySurvivesSectionNavigation": true,
+      "shared": "http://127.0.0.1:4414/dioptra/flow.html?w=12&d=4&a=10&b=30&v=1&t=20&m=whole&r=0#fl-workshop",
+      "readings": 11,
+      "questions": 3,
+      "sourcePagesDecoded": 4,
+      "sourceZoom": true,
+      "receiverHeightsUseSameScale": [
+        {
+          "litres": 9.6,
+          "height": 25.6
+        },
+        {
+          "litres": 19.2,
+          "height": 51.2
+        }
+      ],
+      "standaloneSvgColorsVerified": true,
+      "readingBytes": 2661727,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84"
+        },
+        {
+          "width": 1079,
+          "sha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638"
+        },
+        {
+          "width": 1079,
+          "sha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f"
+        },
+        {
+          "width": 1079,
+          "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1"
+        }
+      ],
+      "embeddedCsvMatches": true,
+      "offlineRooms": [],
+      "offlineMethod": "Not enabled in development",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    }
+  ]
+}

@@ -1,0 +1,1374 @@
+{
+  "checkedAt": "2026-10-24T04:09:11.235Z",
+  "workerSha256": "fbf12bec30a1d4dd78c0bd4f8ed9db87d30c5236f617f0f95172cac083ffdf29",
+  "configurations": [
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "width": 1440,
+      "geometry": [
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 2
+        }
+      ],
+      "downloads": [
+        {
+          "file": "chromium-1440.html",
+          "bytes": 2969236,
+          "sha256": "374a10f524b7a5234002caeb8c8988f1ec072ac2359780790ae7f311acdd623b"
+        },
+        {
+          "file": "chromium-1440.svg",
+          "bytes": 12745,
+          "sha256": "e3c5efa5ed250e7174424f0440c921eead2838f0bbf3efdd00c6c77fae33a0e6"
+        },
+        {
+          "file": "chromium-1440.csv",
+          "bytes": 2059,
+          "sha256": "042bdbe6db1799ce8482ba818a9055556898d6a00fcf091d14d2f84c8c5a848a"
+        }
+      ],
+      "sources": [
+        {
+          "file": "schone-238.jpg",
+          "sha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7"
+        },
+        {
+          "file": "schone-239.jpg",
+          "sha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20"
+        },
+        {
+          "file": "schone-240.jpg",
+          "sha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40"
+        },
+        {
+          "file": "schone-241.jpg",
+          "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d"
+        }
+      ],
+      "readings": 8,
+      "offlineReload": true,
+      "offlineSource": true,
+      "offlineExport": true,
+      "embeddedCsvMatches": true,
+      "axeViolations": 0
+    },
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "width": 375,
+      "geometry": [
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 2
+        }
+      ],
+      "downloads": [
+        {
+          "file": "chromium-375.html",
+          "bytes": 2969236,
+          "sha256": "374a10f524b7a5234002caeb8c8988f1ec072ac2359780790ae7f311acdd623b"
+        },
+        {
+          "file": "chromium-375.svg",
+          "bytes": 12336,
+          "sha256": "0f2b5714f175e380e4c42296a575765b1d08b3e7581bb07e8f1fc09e03f07094"
+        },
+        {
+          "file": "chromium-375.csv",
+          "bytes": 2059,
+          "sha256": "042bdbe6db1799ce8482ba818a9055556898d6a00fcf091d14d2f84c8c5a848a"
+        }
+      ],
+      "sources": [
+        {
+          "file": "schone-238.jpg",
+          "sha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7"
+        },
+        {
+          "file": "schone-239.jpg",
+          "sha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20"
+        },
+        {
+          "file": "schone-240.jpg",
+          "sha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40"
+        },
+        {
+          "file": "schone-241.jpg",
+          "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d"
+        }
+      ],
+      "readings": 8,
+      "offlineReload": true,
+      "offlineSource": true,
+      "offlineExport": true,
+      "embeddedCsvMatches": true,
+      "axeViolations": 0
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "width": 1440,
+      "geometry": [
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300,
+          "drawnNetY": 59.999999999999986,
+          "drawnWalk": 559.9999999999999,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 300,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 239.99999999999997,
+          "drawnNetY": 120,
+          "drawnWalk": 560,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 120,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 680,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 60.00000000000002,
+          "drawnWalk": 879.9999999999998,
+          "boreLines": 2
+        }
+      ],
+      "downloads": [
+        {
+          "file": "firefox-1440.html",
+          "bytes": 2969236,
+          "sha256": "374a10f524b7a5234002caeb8c8988f1ec072ac2359780790ae7f311acdd623b"
+        },
+        {
+          "file": "firefox-1440.svg",
+          "bytes": 12745,
+          "sha256": "e3c5efa5ed250e7174424f0440c921eead2838f0bbf3efdd00c6c77fae33a0e6"
+        },
+        {
+          "file": "firefox-1440.csv",
+          "bytes": 2059,
+          "sha256": "042bdbe6db1799ce8482ba818a9055556898d6a00fcf091d14d2f84c8c5a848a"
+        }
+      ],
+      "sources": [
+        {
+          "file": "schone-238.jpg",
+          "sha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7"
+        },
+        {
+          "file": "schone-239.jpg",
+          "sha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20"
+        },
+        {
+          "file": "schone-240.jpg",
+          "sha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40"
+        },
+        {
+          "file": "schone-241.jpg",
+          "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d"
+        }
+      ],
+      "readings": 8,
+      "offlineReload": true,
+      "offlineSource": true,
+      "offlineExport": true,
+      "embeddedCsvMatches": true,
+      "axeViolations": 0
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "width": 375,
+      "geometry": [
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 0,
+          "drawnNetX": 300.00000000000006,
+          "drawnNetY": 60.00000000000001,
+          "drawnWalk": 560,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 40,
+          "drawnNetX": 300,
+          "drawnNetY": 59.99999999999997,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 0
+        },
+        {
+          "preset": "five",
+          "detour": 100,
+          "drawnNetX": 299.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 760,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 0,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 560,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 40,
+          "drawnNetX": 240.00000000000006,
+          "drawnNetY": 120,
+          "drawnWalk": 640,
+          "boreLines": 2
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 0
+        },
+        {
+          "preset": "two",
+          "detour": 100,
+          "drawnNetX": 240,
+          "drawnNetY": 119.99999999999999,
+          "drawnWalk": 759.9999999999998,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 0,
+          "drawnNetX": 420,
+          "drawnNetY": 60,
+          "drawnWalk": 680,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 40,
+          "drawnNetX": 420,
+          "drawnNetY": 60.000000000000014,
+          "drawnWalk": 759.9999999999999,
+          "boreLines": 2
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 0
+        },
+        {
+          "preset": "seven",
+          "detour": 100,
+          "drawnNetX": 419.99999999999994,
+          "drawnNetY": 59.99999999999999,
+          "drawnWalk": 880,
+          "boreLines": 2
+        }
+      ],
+      "downloads": [
+        {
+          "file": "firefox-375.html",
+          "bytes": 2969236,
+          "sha256": "374a10f524b7a5234002caeb8c8988f1ec072ac2359780790ae7f311acdd623b"
+        },
+        {
+          "file": "firefox-375.svg",
+          "bytes": 12336,
+          "sha256": "0f2b5714f175e380e4c42296a575765b1d08b3e7581bb07e8f1fc09e03f07094"
+        },
+        {
+          "file": "firefox-375.csv",
+          "bytes": 2059,
+          "sha256": "042bdbe6db1799ce8482ba818a9055556898d6a00fcf091d14d2f84c8c5a848a"
+        }
+      ],
+      "sources": [
+        {
+          "file": "schone-238.jpg",
+          "sha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7"
+        },
+        {
+          "file": "schone-239.jpg",
+          "sha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20"
+        },
+        {
+          "file": "schone-240.jpg",
+          "sha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40"
+        },
+        {
+          "file": "schone-241.jpg",
+          "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d"
+        }
+      ],
+      "readings": 8,
+      "offlineReload": true,
+      "offlineSource": true,
+      "offlineExport": true,
+      "embeddedCsvMatches": true,
+      "axeViolations": 0
+    }
+  ],
+  "negativeCases": [
+    {
+      "browser": "chromium",
+      "case": "substituted source",
+      "downloadBlocked": true
+    },
+    {
+      "browser": "chromium",
+      "case": "held source",
+      "notReadyUntilComplete": true,
+      "completeEditionOffline": true
+    },
+    {
+      "browser": "firefox",
+      "case": "substituted source",
+      "downloadBlocked": true
+    },
+    {
+      "browser": "firefox",
+      "case": "held source",
+      "notReadyUntilComplete": true,
+      "completeEditionOffline": true
+    }
+  ]
+}

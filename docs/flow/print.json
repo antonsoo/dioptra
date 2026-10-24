@@ -1,0 +1,281 @@
+{
+  "method": "Poppler layout-preserving text extraction; NFC and whitespace normalization; complete paragraph inclusion",
+  "pdfSha256": "fe38d94d2cd50db0fa6af918adb811ea74b05ac1214371144e23dcfb3abc8294",
+  "checks": [
+    {
+      "passage": 1,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "note",
+      "present": true
+    }
+  ]
+}

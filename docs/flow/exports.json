@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-24T04:15:25.864Z",
+  "method": "Service-worker capability removed before startup to isolate direct export fetches",
+  "configurations": [
+    {
+      "browser": "chromium",
+      "snapshotWidthCm": 12,
+      "liveWidthCm": 16,
+      "substitutedHttp200ImageRejected": true,
+      "failedExportDownloads": 0,
+      "retrySucceeded": true
+    },
+    {
+      "browser": "firefox",
+      "snapshotWidthCm": 12,
+      "liveWidthCm": 16,
+      "substitutedHttp200ImageRejected": true,
+      "failedExportDownloads": 0,
+      "retrySucceeded": true
+    }
+  ]
+}

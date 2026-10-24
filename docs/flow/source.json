@@ -1,0 +1,12 @@
+{
+  "completeChapter": 31,
+  "units": 11,
+  "normalizedGreekLetters": 1261,
+  "completeSequenceMatches": true,
+  "comparison": "All letters, stripping punctuation and diacritics; notes and editor-deleted material omitted; declared line-join correction applied. Full pages separately inspected.",
+  "sourceFilesHashVerified": 11,
+  "pages": {
+    "printPages": [284, 285, 286, 287],
+    "pdfPages": [299, 300, 301, 302]
+  }
+}
