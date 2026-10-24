@@ -15,11 +15,17 @@ https://github.com/OpenGreekAndLatin/First1KGreek/blob/25b9f2150cfd329d94177e86e
 License: Creative Commons Attribution-ShareAlike 4.0 International.
 https://creativecommons.org/licenses/by-sa/4.0/
 
-The eight displayed Greek selections adapt that digital transcription.
+The eight chapter 15 selections and eleven chapter 31 reading units adapt
+that digital transcription.
 Changes: ordinary Greek delta Δ replaces the transcription's ∠; line-end
 hyphens and whitespace are joined; line numbers and apparatus are omitted
 from the selections; apostrophes are normalized; editorial supplements use
-visible angle brackets. The source-file copy itself is unchanged.
+visible angle brackets. The source-file copy itself is unchanged. Chapter 31 removes the duplicated
+line-join fragment "μενον" after στοχασάμενον, follows the printed ὀρῶν,
+and omits the editor-deleted letters and relocated duplicate conclusion.
+The supplied conclusion keeps angle brackets. The reading follows the
+printed τάχος (speed); the apparatus reading τὸ πάχος (thickness) is
+explicitly discussed. Full pages preserve the apparatus and corrections.
 
 New English translation, grammar, historical notes and teaching prose:
 Copyright (c) 2026 Anton Soloviev. CC BY-SA 4.0, the same license as the
@@ -28,7 +34,7 @@ teaching text must be shared under the same license. The full legal code is
 included as CC-BY-SA-4.0.txt. This does not restrict public-domain material.
 
 Historical page images:
-Schöne (1903), printed pp. 238–241, including figure 95 and the German
+Schöne (1903), printed pp. 238–241 and 284–287, including figure 95 and the German
 translation and apparatus. Public-domain historical text and illustration.
 The complete scan was retrieved from Internet Archive, identifier
 heronisalexandr00schogoog. Google Books digitization. The included JPEGs are
