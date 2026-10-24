@@ -7,7 +7,7 @@ export const ASSETS: Record<string, string> = {
   "fonts/NotoSerif-OFL.txt": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a",
   "fonts/NotoSerif-Regular.ttf": "5473d2e43bdd018ee124a4addba8091fd0a29894b121cbb741023af6549662b6",
   "sources/CC-BY-SA-4.0.txt": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5",
-  "sources/NOTICES.txt": "5a16d7cb7a936d085bae7b4292047bf026a94eb961d03415bf928b9c4e5071fb",
+  "sources/NOTICES.txt": "6efe0f22ec2d2f516d902cc864f60357d8166b47b8b3f4ba0127c6271c8fac45",
   "sources/schone-238.jpg": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7",
   "sources/schone-239.jpg": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20",
   "sources/schone-240.jpg": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40",

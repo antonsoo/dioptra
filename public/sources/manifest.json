@@ -1,20 +1,28 @@
 {
-  "edition": "Hermann Schöne, Herons von Alexandria Vermessungslehre und Dioptra (1903), pp. 238–241",
+  "edition": "Hermann Schöne, Herons von Alexandria Vermessungslehre und Dioptra (1903), pp. 238–241 and 284–287",
   "pdfUrl": "https://archive.org/download/heronisalexandr00schogoog/heronisalexandr00schogoog.pdf",
   "pdfSha256": "d8c5aaa7c5757ffbc7a4e1a57286c23bd341a547a7c042d58cee5c4c9da438b5",
   "pdfPages": [
     255,
     256,
     257,
-    258
+    258,
+    299,
+    300,
+    301,
+    302
   ],
   "printPages": [
     238,
     239,
     240,
-    241
+    241,
+    284,
+    285,
+    286,
+    287
   ],
-  "rendering": "pdftoppm JPEG quality 90; longest edge 1700 for p.238, 1550 for pp.239–241",
+  "rendering": "pdftoppm JPEG quality 90; longest edge 1700 for p.238, 1550 for pp.239–241; chapter 31 longest edge 1550, JPEG quality 85",
   "scansLicense": "Public domain historical text and illustration",
   "teiUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/25b9f2150cfd329d94177e86e334d35487a07d3b/data/tlg0559/tlg007/tlg0559.tlg007.1st1K-grc1.xml",
   "teiLicense": "CC BY-SA 4.0; Harvard College Library, 2018; encoding/correction Digital Divide Data, Open Greek and Latin / Perseus project",
@@ -26,8 +34,8 @@
     },
     {
       "file": "NOTICES.txt",
-      "bytes": 2457,
-      "sha256": "5a16d7cb7a936d085bae7b4292047bf026a94eb961d03415bf928b9c4e5071fb"
+      "bytes": 2930,
+      "sha256": "6efe0f22ec2d2f516d902cc864f60357d8166b47b8b3f4ba0127c6271c8fac45"
     },
     {
       "file": "dioptra-grc.xml",
@@ -53,7 +61,57 @@
       "file": "schone-241.jpg",
       "bytes": 440739,
       "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d"
+    },
+    {
+      "file": "schone-284.jpg",
+      "bytes": 359387,
+      "sha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84"
+    },
+    {
+      "file": "schone-285.jpg",
+      "bytes": 276032,
+      "sha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638"
+    },
+    {
+      "file": "schone-286.jpg",
+      "bytes": 355428,
+      "sha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f"
+    },
+    {
+      "file": "schone-287.jpg",
+      "bytes": 380742,
+      "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1"
     }
   ],
-  "teiCommit": "25b9f2150cfd329d94177e86e334d35487a07d3b"
+  "teiCommit": "25b9f2150cfd329d94177e86e334d35487a07d3b",
+  "chapters": {
+    "15": {
+      "printPages": [
+        238,
+        239,
+        240,
+        241
+      ],
+      "pdfPages": [
+        255,
+        256,
+        257,
+        258
+      ]
+    },
+    "31": {
+      "printPages": [
+        284,
+        285,
+        286,
+        287
+      ],
+      "pdfPages": [
+        299,
+        300,
+        301,
+        302
+      ]
+    }
+  }
 }
