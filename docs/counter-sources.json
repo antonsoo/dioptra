@@ -1,0 +1,60 @@
+{
+  "bundledFiles": 23,
+  "continuousGreekSelections": 14,
+  "comparison": "NFC letters and digits, punctuation/whitespace omitted; notes excluded",
+  "chapter": 34,
+  "printedPages": [292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303],
+  "archiveLeavesChecked": [
+    {
+      "printPage": 292,
+      "archiveLeaf": 307
+    },
+    {
+      "printPage": 293,
+      "archiveLeaf": 308
+    },
+    {
+      "printPage": 294,
+      "archiveLeaf": 309
+    },
+    {
+      "printPage": 295,
+      "archiveLeaf": 310
+    },
+    {
+      "printPage": 296,
+      "archiveLeaf": 311
+    },
+    {
+      "printPage": 297,
+      "archiveLeaf": 312
+    },
+    {
+      "printPage": 298,
+      "archiveLeaf": 313
+    },
+    {
+      "printPage": 299,
+      "archiveLeaf": 314
+    },
+    {
+      "printPage": 300,
+      "archiveLeaf": 315
+    },
+    {
+      "printPage": 301,
+      "archiveLeaf": 316
+    },
+    {
+      "printPage": 302,
+      "archiveLeaf": 317
+    },
+    {
+      "printPage": 303,
+      "archiveLeaf": 318
+    }
+  ],
+  "pdfRendersReproduced": 12,
+  "onlineSourceIdentityChecked": true,
+  "teiCommit": "25b9f2150cfd329d94177e86e334d35487a07d3b"
+}

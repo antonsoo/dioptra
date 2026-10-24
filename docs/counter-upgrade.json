@@ -1,0 +1,51 @@
+{
+  "previousWorker": "a95b11ac33516137c1e088e4e7b0f980755ee19ee810a66afb94f566e7fac892",
+  "currentWorker": "8cfbc906424a3e8b74ad67718c30b6127998c33762d95f6d8479f4fd3251144d",
+  "scope": "Two-room edition to counter calibration, with a new source held or substituted; origin-disabled navigation after recovery",
+  "configurations": [
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "substitutionRejectedAndRecovered": false,
+      "heldRequests": 1,
+      "pendingStatus": "Downloading the updated survey & sources…",
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+    },
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "substitutionRejectedAndRecovered": true,
+      "heldRequests": 1,
+      "pendingStatus": "Downloading the updated survey & sources…",
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "substitutionRejectedAndRecovered": false,
+      "heldRequests": 1,
+      "pendingStatus": "Downloading the updated survey & sources…",
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "substitutionRejectedAndRecovered": true,
+      "heldRequests": 1,
+      "pendingStatus": "Downloading the updated survey & sources…",
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+    }
+  ]
+}

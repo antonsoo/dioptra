@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-24 · Count the teeth. Then measure.
+
+- Read Dioptra 34 through fourteen Greek/English selections, contextual word notes,
+  twelve complete printed pages and the edition's explanatory cutaway.
+- Observe a complete first-worm trial before applying its measured graduation;
+  compare unchanged pointers with the changed distance scale, and try an additional ratio.
+- Follow the eight-pin input, first carry and complete two-dial rollover, with
+  an explicitly separate outside ledger and theoretical second-stage assumption.
+- Save an integrity-checked illustrated reading, native SVG/CSV and shareable state;
+  retain a 22-page browser PDF and verify the complete three-room offline edition.
+
 ## 2026-10-23 · Water needs a clock
 
 - Add the complete Dioptra 31 Greek/English reading, four source pages and an explicit speed/thickness apparatus note.

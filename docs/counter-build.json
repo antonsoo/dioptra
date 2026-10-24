@@ -1,0 +1,190 @@
+{
+  "checkedAt": "2026-10-24T23:40:45.549356+00:00",
+  "sourceCommit": "281a6216c8606b13a2f48a7eb58e53e5d84ef88e",
+  "sourceArchiveSha256": "1c82bac0248e1bbf4c696150cb31d67264c4556c4d911dbf3ec738a0d59e8138",
+  "cleanNode": "24.21.0",
+  "cleanNpm": "11.19.0",
+  "workspaceNode": "v26.7.0",
+  "cleanCommands": [
+    "npm ci",
+    "npm run check",
+    "npm run verify:survey",
+    "npm run verify:counter",
+    "npm run verify:counter-sources"
+  ],
+  "unitTests": 12,
+  "independentCounterCases": 6282,
+  "independentCounterChecks": 91089,
+  "independentSurveyCases": 576,
+  "filesIdentical": 41,
+  "totalBuildBytes": 8220484,
+  "build": "npm run build",
+  "output": "dist/",
+  "publicDeployment": "Not performed in this change",
+  "files": [
+    {
+      "file": "assets/counter-BIpS-HWy.js",
+      "sha256": "bc8f960fab2f6e714ee34c8725cc6b4ddd1ebb1c22733a7490cd75f5a38ab9a5"
+    },
+    {
+      "file": "assets/counter-UyAbvOSE.css",
+      "sha256": "bd77a6530f3863532f6273dbcf562517a03ab628d64219aaa3c326940aef82cf"
+    },
+    {
+      "file": "assets/flow-BUSdbjnl.css",
+      "sha256": "575850f4db409f42bf1c8c0cec0ab9f01b9fd9cc2b8c516d3f1fcaad82856ca9"
+    },
+    {
+      "file": "assets/flow-CzjdZJFN.js",
+      "sha256": "b8c36e712bfa30c28cd5fa9ed9b0edb15ca85d5089fbfb4db9c0ca6f9e21d2ab"
+    },
+    {
+      "file": "assets/main-CjbB0rc5.js",
+      "sha256": "ada51b224a4b3787b1811baa79cf5f2e6dcc6f41d4a698a2087164c69ec9c2bf"
+    },
+    {
+      "file": "assets/main-D2wZ2yLE.css",
+      "sha256": "0e6fde2d954c491c32dca2876968493bc1dc10e8854d743c0643e0004d50425c"
+    },
+    {
+      "file": "assets/offline-VH_EB7N1.js",
+      "sha256": "bec089c9612b5a00c60e67fdef759ad8cba90798dcca077a2553b0150bab600c"
+    },
+    {
+      "file": "counter.html",
+      "sha256": "f3dc951c13d6a0a06cb8a67089b85495e8daa8779e4b337f7dfa1bde8c6e5d44"
+    },
+    {
+      "file": "flow.html",
+      "sha256": "f78399563ed8d1ce0373e242ab2daac28b5a05a24eccaad39636cf9742b85c40"
+    },
+    {
+      "file": "fonts/IBMPlex-OFL.txt",
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "file": "fonts/IBMPlexSans-Regular.woff2",
+      "sha256": "ba711a3085ff9f27440b6b9c4550cfc47c97bf36591d5da958b975bb3add8c1a"
+    },
+    {
+      "file": "fonts/IBMPlexSans-SemiBold.woff2",
+      "sha256": "f78048030eab62e860efa39a0df79e2e5581bf122eb95b9bc42c0b8a4988d205"
+    },
+    {
+      "file": "fonts/NotoSerif-OFL.txt",
+      "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+    },
+    {
+      "file": "fonts/NotoSerif-Regular.ttf",
+      "sha256": "5473d2e43bdd018ee124a4addba8091fd0a29894b121cbb741023af6549662b6"
+    },
+    {
+      "file": "icon.svg",
+      "sha256": "094b244faf08f228df1be1895fc726a9bfdd29076f849d66c217687827123aeb"
+    },
+    {
+      "file": "index.html",
+      "sha256": "c9dc656b0f84c51b0798018108d7705a85c3133735fc19cc7dd5e2a86cdb12b0"
+    },
+    {
+      "file": "sources/CC-BY-SA-4.0.txt",
+      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5"
+    },
+    {
+      "file": "sources/NOTICES.txt",
+      "sha256": "ee14fadd47441e38755ac96b01f70567b27c7660c95eb9d53af791976caea18e"
+    },
+    {
+      "file": "sources/dioptra-grc.xml",
+      "sha256": "2a6c4f7e939c8d26dff32ce6713a57c750693cadd69b6c91abe8c19c2fbda37e"
+    },
+    {
+      "file": "sources/manifest.json",
+      "sha256": "b4bf0ce3a59bac69da202cd2b07bc1e021d401a0c039cbb922ad9dfdf01f29e8"
+    },
+    {
+      "file": "sources/schone-238.jpg",
+      "sha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7"
+    },
+    {
+      "file": "sources/schone-239.jpg",
+      "sha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20"
+    },
+    {
+      "file": "sources/schone-240.jpg",
+      "sha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40"
+    },
+    {
+      "file": "sources/schone-241.jpg",
+      "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d"
+    },
+    {
+      "file": "sources/schone-284.jpg",
+      "sha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84"
+    },
+    {
+      "file": "sources/schone-285.jpg",
+      "sha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638"
+    },
+    {
+      "file": "sources/schone-286.jpg",
+      "sha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f"
+    },
+    {
+      "file": "sources/schone-287.jpg",
+      "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1"
+    },
+    {
+      "file": "sources/schone-292.jpg",
+      "sha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416"
+    },
+    {
+      "file": "sources/schone-293.jpg",
+      "sha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a"
+    },
+    {
+      "file": "sources/schone-294.jpg",
+      "sha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c"
+    },
+    {
+      "file": "sources/schone-295.jpg",
+      "sha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb"
+    },
+    {
+      "file": "sources/schone-296.jpg",
+      "sha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251"
+    },
+    {
+      "file": "sources/schone-297.jpg",
+      "sha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f"
+    },
+    {
+      "file": "sources/schone-298.jpg",
+      "sha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b"
+    },
+    {
+      "file": "sources/schone-299.jpg",
+      "sha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375"
+    },
+    {
+      "file": "sources/schone-300.jpg",
+      "sha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17"
+    },
+    {
+      "file": "sources/schone-301.jpg",
+      "sha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7"
+    },
+    {
+      "file": "sources/schone-302.jpg",
+      "sha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f"
+    },
+    {
+      "file": "sources/schone-303.jpg",
+      "sha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+    },
+    {
+      "file": "sw.js",
+      "sha256": "8cfbc906424a3e8b74ad67718c30b6127998c33762d95f6d8479f4fd3251144d"
+    }
+  ]
+}

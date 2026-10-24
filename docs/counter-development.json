@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-24T23:40:46.400Z",
+  "sourceCommit": "281a621",
+  "mode": "Clean Node 24 source, development server; port override to avoid production preview",
+  "configurations": [
+    {
+      "engine": "chromium",
+      "version": "153.0.8010.12",
+      "width": 375,
+      "calibrationApplied": true,
+      "styled": true,
+      "sourceCaptionMatchesPage": true,
+      "pageErrors": [],
+      "consoleErrors": []
+    },
+    {
+      "engine": "chromium",
+      "version": "153.0.8010.12",
+      "width": 1440,
+      "calibrationApplied": true,
+      "styled": true,
+      "sourceCaptionMatchesPage": true,
+      "pageErrors": [],
+      "consoleErrors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "155.0",
+      "width": 375,
+      "calibrationApplied": true,
+      "styled": true,
+      "sourceCaptionMatchesPage": true,
+      "pageErrors": [],
+      "consoleErrors": []
+    },
+    {
+      "engine": "firefox",
+      "version": "155.0",
+      "width": 1440,
+      "calibrationApplied": true,
+      "styled": true,
+      "sourceCaptionMatchesPage": true,
+      "pageErrors": [],
+      "consoleErrors": []
+    }
+  ]
+}

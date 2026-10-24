@@ -1,7 +1,7 @@
 # Dioptra
 
-**Meet beneath the mountain.** Read Hero's Greek instructions, measure an
-outside circuit, and aim a tunnel between entrances that cannot see one another.
+**Measure what the instrument tells you.** Read Hero's Greek, aim an unseen
+tunnel, collect water against time, and calibrate a distance counter by trial.
 
 [Workshop](https://antonsoo.github.io/dioptra/) · [Code: MIT](LICENSE) ·
 [Text and source licenses](public/sources/NOTICES.txt) · [Model](docs/model.md)
@@ -13,6 +13,45 @@ This field book lets a learner perform those operations, read the Greek that
 describes them, and distinguish the ideal proof from a deliberately displaced peg.
 
 ![The measured circuit, outside aiming points and two lines through the mountain](docs/assets/survey-desktop.png)
+
+## Count the teeth. Then measure.
+
+The third room, **`counter.html`**, follows _Dioptra_ 34. Hero first describes
+a worm advancing one tooth per turn, then asks the operator to test the ratio.
+His supposed trial takes **twenty turns** to move a **thirty-tooth** wheel
+through one complete revolution. The distance written on its dial must change.
+
+Run locally using the quickstart below, then open
+`http://127.0.0.1:4344/dioptra/counter.html`.
+
+![Completed twenty-turn trial and the measured distance graduation](docs/assets/counter-calibration.png)
+
+Turn the shaft once at a time, or run the trial to its stopping mark. Apply
+the measured graduation: the same fifteen divisions now read **800 cubits**,
+where the uncorrected scale read **1,200**. Neither pointer moves when its
+scale changes. Try a different, explicitly modern ratio to apply the procedure
+beyond that one example.
+
+Follow the eight-pin input and both reduction dials through a carry, then a
+complete circuit. Both pointers return to zero; the separate outside ledger
+shows the distance their positions cannot retain. The second reduction stays
+at an explicitly assumed 30:1 ratio. Testing one stage does not verify them all.
+
+Fourteen Greek-and-English selections explain the argument, its number
+letters and the language of trial. Twelve full pages retain the Greek, facing
+German, apparatus, a textual gap and the edition's cutaway. The verified
+archive-leaf links distinguish printed p. 298 from marginal earlier-edition
+p. 312. No missing construction or physical cause of the twenty-turn ratio
+is invented.
+
+Save the dials as SVG, checkpoints as CSV, or the complete illustrated reading
+as one script-free HTML file, with scans, fonts and licenses embedded. The
+three-room production edition saves all of its sources offline.
+
+[Source and model](docs/counter-model.md) · [Development review](docs/counter-review.md) ·
+[Actual saved reading](examples/counter-reading.html) ·
+[22-page PDF](examples/counter-reading.pdf) ·
+[Dials SVG](examples/counter.svg) · [Checkpoints CSV](examples/counter.csv).
 
 ## Water needs a clock
 
@@ -135,6 +174,8 @@ cached file before declaring offline readiness.
 ```sh
 npm run check
 npm run verify:survey
+npm run verify:counter
+npm run verify:counter-sources
 npm run test:browser -- /tmp/dioptra-browser
 node --import tsx scripts/print-review.ts /tmp/dioptra-browser/field-book.pdf
 python3 scripts/source-review.py --online
@@ -147,6 +188,15 @@ actual downloads, standalone files and a disconnected origin in Chromium and
 Firefox at desktop and phone widths. Poppler and Python are needed for the print
 and source reviews. Install the Playwright browser binaries if they are absent:
 `npx playwright install chromium firefox`.
+
+For the distance counter, run `npm run test:counter -- /tmp/dioptra-counter`.
+It checks the actual calibration, unchanged pointer positions, carry and
+rollover, a second trial ratio, keyboard controls, history and shared settings,
+all fourteen readings and twelve source pages, native downloads, standalone
+files, source-substitution rejection and a disconnected three-room edition in
+both browsers at desktop and phone widths. Its independent rational oracle
+checks 6,282 cases. The [counter review](docs/counter-review.md) includes the
+source-image, printed-reading and previous-edition upgrade evidence.
 
 ## Limits, contribution and licensing
 

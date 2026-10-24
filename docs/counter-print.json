@@ -1,0 +1,371 @@
+{
+  "method": "Poppler layout-preserving text extraction; NFC and whitespace normalization; complete paragraph inclusion; pdfimages -j recovered all twelve source JPEGs byte for byte",
+  "pdfSha256": "96f601fadbba252d62e2ade749d703d22790f2b7c1d96ef2df876bb72a605ca8",
+  "checks": [
+    {
+      "passage": 1,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 1,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 2,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 3,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 4,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 5,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 6,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 7,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 8,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 9,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 10,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 11,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 12,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 12,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 12,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 12,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 12,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 13,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 13,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 13,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 13,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 13,
+      "field": "note",
+      "present": true
+    },
+    {
+      "passage": 14,
+      "field": "greek",
+      "present": true
+    },
+    {
+      "passage": 14,
+      "field": "english",
+      "present": true
+    },
+    {
+      "passage": 14,
+      "field": "word",
+      "present": true
+    },
+    {
+      "passage": 14,
+      "field": "gloss",
+      "present": true
+    },
+    {
+      "passage": 14,
+      "field": "note",
+      "present": true
+    }
+  ],
+  "pages": 22,
+  "jpegSourcesRecoveredByteExactly": [
+    "schone-292.jpg",
+    "schone-293.jpg",
+    "schone-294.jpg",
+    "schone-295.jpg",
+    "schone-296.jpg",
+    "schone-297.jpg",
+    "schone-298.jpg",
+    "schone-299.jpg",
+    "schone-300.jpg",
+    "schone-301.jpg",
+    "schone-302.jpg",
+    "schone-303.jpg"
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "checkedAt": "2026-10-24T23:37:51.304Z",
+  "mode": "local production",
+  "workerSha256": "8cfbc906424a3e8b74ad67718c30b6127998c33762d95f6d8479f4fd3251144d",
+  "configurations": [
+    {
+      "engine": "chromium",
+      "version": "153.0.8010.12",
+      "width": 1440,
+      "defaultCubits": {
+        "theoretical": 1200,
+        "ledger": 800
+      },
+      "pointerInvariantAfterCalibration": [
+        {
+          "dial": "input",
+          "angle": 0,
+          "transform": "rotate(0)"
+        },
+        {
+          "dial": "first",
+          "angle": 180,
+          "transform": "rotate(180)"
+        },
+        {
+          "dial": "second",
+          "angle": 6,
+          "transform": "rotate(6)"
+        }
+      ],
+      "measuredCubits": 800,
+      "carryCubits": [1590, 1600],
+      "rolloverLedgerCubits": 48000,
+      "idealLedgerStadia": 180,
+      "extraTrial": {
+        "shaftTurns": 24,
+        "cubitsPerDivision": 64,
+        "halfRevolutionCubits": 960
+      },
+      "boundarySvgLayouts": 6,
+      "svgTextClipping": 0,
+      "editionCutawayReached": true,
+      "keyboard": true,
+      "history": true,
+      "share": true,
+      "readingCount": 14,
+      "decodedSourcePages": 12,
+      "svgStandalone": true,
+      "readingBytes": 6552378,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416"
+        },
+        {
+          "width": 1079,
+          "sha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a"
+        },
+        {
+          "width": 1079,
+          "sha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c"
+        },
+        {
+          "width": 1079,
+          "sha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb"
+        },
+        {
+          "width": 1079,
+          "sha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251"
+        },
+        {
+          "width": 1079,
+          "sha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f"
+        },
+        {
+          "width": 1079,
+          "sha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b"
+        },
+        {
+          "width": 1079,
+          "sha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375"
+        },
+        {
+          "width": 1079,
+          "sha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17"
+        },
+        {
+          "width": 1079,
+          "sha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7"
+        },
+        {
+          "width": 1079,
+          "sha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f"
+        },
+        {
+          "width": 1079,
+          "sha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+        }
+      ],
+      "scriptFree": true,
+      "externalSavedRequests": [],
+      "embeddedCsvMatches": true,
+      "offlineRooms": ["index.html", "flow.html", "counter.html"],
+      "cacheFiles": 40,
+      "offlineMethod": "Origin physically disabled and independently unreachable; browser context also offline",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    },
+    {
+      "engine": "chromium",
+      "version": "153.0.8010.12",
+      "width": 375,
+      "defaultCubits": {
+        "theoretical": 1200,
+        "ledger": 800
+      },
+      "pointerInvariantAfterCalibration": [
+        {
+          "dial": "input",
+          "angle": 0,
+          "transform": "rotate(0)"
+        },
+        {
+          "dial": "first",
+          "angle": 180,
+          "transform": "rotate(180)"
+        },
+        {
+          "dial": "second",
+          "angle": 6,
+          "transform": "rotate(6)"
+        }
+      ],
+      "measuredCubits": 800,
+      "carryCubits": [1590, 1600],
+      "rolloverLedgerCubits": 48000,
+      "idealLedgerStadia": 180,
+      "extraTrial": {
+        "shaftTurns": 24,
+        "cubitsPerDivision": 64,
+        "halfRevolutionCubits": 960
+      },
+      "boundarySvgLayouts": 6,
+      "svgTextClipping": 0,
+      "editionCutawayReached": true,
+      "keyboard": true,
+      "history": true,
+      "share": true,
+      "readingCount": 14,
+      "decodedSourcePages": 12,
+      "svgStandalone": true,
+      "readingBytes": 6552378,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416"
+        },
+        {
+          "width": 1079,
+          "sha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a"
+        },
+        {
+          "width": 1079,
+          "sha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c"
+        },
+        {
+          "width": 1079,
+          "sha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb"
+        },
+        {
+          "width": 1079,
+          "sha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251"
+        },
+        {
+          "width": 1079,
+          "sha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f"
+        },
+        {
+          "width": 1079,
+          "sha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b"
+        },
+        {
+          "width": 1079,
+          "sha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375"
+        },
+        {
+          "width": 1079,
+          "sha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17"
+        },
+        {
+          "width": 1079,
+          "sha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7"
+        },
+        {
+          "width": 1079,
+          "sha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f"
+        },
+        {
+          "width": 1079,
+          "sha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+        }
+      ],
+      "scriptFree": true,
+      "externalSavedRequests": [],
+      "embeddedCsvMatches": true,
+      "offlineRooms": ["index.html", "flow.html", "counter.html"],
+      "cacheFiles": 40,
+      "offlineMethod": "Origin physically disabled and independently unreachable; browser context also offline",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    },
+    {
+      "engine": "firefox",
+      "version": "155.0",
+      "width": 1440,
+      "defaultCubits": {
+        "theoretical": 1200,
+        "ledger": 800
+      },
+      "pointerInvariantAfterCalibration": [
+        {
+          "dial": "input",
+          "angle": 0,
+          "transform": "rotate(0)"
+        },
+        {
+          "dial": "first",
+          "angle": 180,
+          "transform": "rotate(180)"
+        },
+        {
+          "dial": "second",
+          "angle": 6,
+          "transform": "rotate(6)"
+        }
+      ],
+      "measuredCubits": 800,
+      "carryCubits": [1590, 1600],
+      "rolloverLedgerCubits": 48000,
+      "idealLedgerStadia": 180,
+      "extraTrial": {
+        "shaftTurns": 24,
+        "cubitsPerDivision": 64,
+        "halfRevolutionCubits": 960
+      },
+      "boundarySvgLayouts": 6,
+      "svgTextClipping": 0,
+      "editionCutawayReached": true,
+      "keyboard": true,
+      "history": true,
+      "share": true,
+      "readingCount": 14,
+      "decodedSourcePages": 12,
+      "svgStandalone": true,
+      "readingBytes": 6552378,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416"
+        },
+        {
+          "width": 1079,
+          "sha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a"
+        },
+        {
+          "width": 1079,
+          "sha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c"
+        },
+        {
+          "width": 1079,
+          "sha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb"
+        },
+        {
+          "width": 1079,
+          "sha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251"
+        },
+        {
+          "width": 1079,
+          "sha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f"
+        },
+        {
+          "width": 1079,
+          "sha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b"
+        },
+        {
+          "width": 1079,
+          "sha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375"
+        },
+        {
+          "width": 1079,
+          "sha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17"
+        },
+        {
+          "width": 1079,
+          "sha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7"
+        },
+        {
+          "width": 1079,
+          "sha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f"
+        },
+        {
+          "width": 1079,
+          "sha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+        }
+      ],
+      "scriptFree": true,
+      "externalSavedRequests": [],
+      "embeddedCsvMatches": true,
+      "offlineRooms": ["index.html", "flow.html", "counter.html"],
+      "cacheFiles": 40,
+      "offlineMethod": "Origin physically disabled and independently unreachable; browser context also offline",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    },
+    {
+      "engine": "firefox",
+      "version": "155.0",
+      "width": 375,
+      "defaultCubits": {
+        "theoretical": 1200,
+        "ledger": 800
+      },
+      "pointerInvariantAfterCalibration": [
+        {
+          "dial": "input",
+          "angle": 0,
+          "transform": "rotate(0)"
+        },
+        {
+          "dial": "first",
+          "angle": 180,
+          "transform": "rotate(180)"
+        },
+        {
+          "dial": "second",
+          "angle": 6,
+          "transform": "rotate(6)"
+        }
+      ],
+      "measuredCubits": 800,
+      "carryCubits": [1590, 1600],
+      "rolloverLedgerCubits": 48000,
+      "idealLedgerStadia": 180,
+      "extraTrial": {
+        "shaftTurns": 24,
+        "cubitsPerDivision": 64,
+        "halfRevolutionCubits": 960
+      },
+      "boundarySvgLayouts": 6,
+      "svgTextClipping": 0,
+      "editionCutawayReached": true,
+      "keyboard": true,
+      "history": true,
+      "share": true,
+      "readingCount": 14,
+      "decodedSourcePages": 12,
+      "svgStandalone": true,
+      "readingBytes": 6552378,
+      "embeddedImages": [
+        {
+          "width": 1079,
+          "sha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416"
+        },
+        {
+          "width": 1079,
+          "sha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a"
+        },
+        {
+          "width": 1079,
+          "sha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c"
+        },
+        {
+          "width": 1079,
+          "sha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb"
+        },
+        {
+          "width": 1079,
+          "sha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251"
+        },
+        {
+          "width": 1079,
+          "sha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f"
+        },
+        {
+          "width": 1079,
+          "sha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b"
+        },
+        {
+          "width": 1079,
+          "sha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375"
+        },
+        {
+          "width": 1079,
+          "sha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17"
+        },
+        {
+          "width": 1079,
+          "sha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7"
+        },
+        {
+          "width": 1079,
+          "sha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f"
+        },
+        {
+          "width": 1079,
+          "sha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
+        }
+      ],
+      "scriptFree": true,
+      "externalSavedRequests": [],
+      "embeddedCsvMatches": true,
+      "offlineRooms": ["index.html", "flow.html", "counter.html"],
+      "cacheFiles": 40,
+      "offlineMethod": "Origin physically disabled and independently unreachable; browser context also offline",
+      "axeViolations": 0,
+      "pageErrors": [],
+      "consoleErrors": [],
+      "externalRequests": []
+    }
+  ],
+  "integrity": [
+    {
+      "engine": "chromium",
+      "successfulHttpWrongImageRejected": true,
+      "downloadsBeforeRetry": 0,
+      "retrySucceeded": true,
+      "pendingExportPreservesOriginalWheelTurns": 80,
+      "liveWheelTurnsDuringPendingExport": 0,
+      "unfinishedTrialDoesNotInventMeasuredGraduation": true
+    },
+    {
+      "engine": "firefox",
+      "successfulHttpWrongImageRejected": true,
+      "downloadsBeforeRetry": 0,
+      "retrySucceeded": true,
+      "pendingExportPreservesOriginalWheelTurns": 80,
+      "liveWheelTurnsDuringPendingExport": 0,
+      "unfinishedTrialDoesNotInventMeasuredGraduation": true
+    }
+  ]
+}
