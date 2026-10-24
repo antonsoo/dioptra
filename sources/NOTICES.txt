@@ -15,7 +15,7 @@ https://github.com/OpenGreekAndLatin/First1KGreek/blob/25b9f2150cfd329d94177e86e
 License: Creative Commons Attribution-ShareAlike 4.0 International.
 https://creativecommons.org/licenses/by-sa/4.0/
 
-The eight chapter 15 selections and eleven chapter 31 reading units adapt
+The eight chapter 15 selections and eleven chapter 31 reading units, and fourteen chapter 34 selections adapt
 that digital transcription.
 Changes: ordinary Greek delta Δ replaces the transcription's ∠; line-end
 hyphens and whitespace are joined; line numbers and apparatus are omitted
@@ -34,7 +34,7 @@ teaching text must be shared under the same license. The full legal code is
 included as CC-BY-SA-4.0.txt. This does not restrict public-domain material.
 
 Historical page images:
-Schöne (1903), printed pp. 238–241 and 284–287, including figure 95 and the German
+Schöne (1903), printed pp. 238–241, 284–287 and 292–303, including figure 95 and the German
 translation and apparatus. Public-domain historical text and illustration.
 The complete scan was retrieved from Internet Archive, identifier
 heronisalexandr00schogoog. Google Books digitization. The included JPEGs are
@@ -47,3 +47,12 @@ The original notices accompany the fonts in ../fonts/. Portable study files
 embed the fonts together with their complete notices.
 
 No source institution or editor is represented as endorsing this application.
+
+Chapter 34: selections omit line numbers, apparatus and intervening text.
+The digital transcription is otherwise retained with joined whitespace and
+normalized apostrophes. The digital form τύμπανυν at printed p. 298 is
+identified alongside the printed τύμπανον. Numeral values are explained
+in the notes; the marginal earlier-edition page numbers are not the
+printed Schöne page numbers. The source gap on p. 292 is not supplied.
+The new experiment uses an average kinematic ratio and no inferred tooth
+profile. The 24-turn trial is a modern additional example.

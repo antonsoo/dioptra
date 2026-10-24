@@ -1,5 +1,5 @@
 {
-  "edition": "Hermann Schöne, Herons von Alexandria Vermessungslehre und Dioptra (1903), pp. 238–241 and 284–287",
+  "edition": "Hermann Schöne, Herons von Alexandria Vermessungslehre und Dioptra (1903), pp. 238–241, 284–287 and 292–303",
   "pdfUrl": "https://archive.org/download/heronisalexandr00schogoog/heronisalexandr00schogoog.pdf",
   "pdfSha256": "d8c5aaa7c5757ffbc7a4e1a57286c23bd341a547a7c042d58cee5c4c9da438b5",
   "pdfPages": [
@@ -34,8 +34,8 @@
     },
     {
       "file": "NOTICES.txt",
-      "bytes": 2930,
-      "sha256": "6efe0f22ec2d2f516d902cc864f60357d8166b47b8b3f4ba0127c6271c8fac45"
+      "bytes": 3558,
+      "sha256": "ee14fadd47441e38755ac96b01f70567b27c7660c95eb9d53af791976caea18e"
     },
     {
       "file": "dioptra-grc.xml",
@@ -81,6 +81,66 @@
       "file": "schone-287.jpg",
       "bytes": 380742,
       "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1"
+    },
+    {
+      "file": "schone-292.jpg",
+      "bytes": 344299,
+      "sha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416"
+    },
+    {
+      "file": "schone-293.jpg",
+      "bytes": 368128,
+      "sha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a"
+    },
+    {
+      "file": "schone-294.jpg",
+      "bytes": 359916,
+      "sha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c"
+    },
+    {
+      "file": "schone-295.jpg",
+      "bytes": 262090,
+      "sha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb"
+    },
+    {
+      "file": "schone-296.jpg",
+      "bytes": 350934,
+      "sha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251"
+    },
+    {
+      "file": "schone-297.jpg",
+      "bytes": 392895,
+      "sha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f"
+    },
+    {
+      "file": "schone-298.jpg",
+      "bytes": 357281,
+      "sha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b"
+    },
+    {
+      "file": "schone-299.jpg",
+      "bytes": 386958,
+      "sha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375"
+    },
+    {
+      "file": "schone-300.jpg",
+      "bytes": 348672,
+      "sha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17"
+    },
+    {
+      "file": "schone-301.jpg",
+      "bytes": 395356,
+      "sha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7"
+    },
+    {
+      "file": "schone-302.jpg",
+      "bytes": 354469,
+      "sha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f"
+    },
+    {
+      "file": "schone-303.jpg",
+      "bytes": 346584,
+      "sha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7"
     }
   ],
   "teiCommit": "25b9f2150cfd329d94177e86e334d35487a07d3b",
@@ -112,6 +172,139 @@
         301,
         302
       ]
+    },
+    "34": {
+      "printPages": [
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ],
+      "pdfPages": [
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318
+      ],
+      "archiveLeaves": [
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318
+      ],
+      "selectionCount": 14,
+      "note": "The calibration is printed p. 298, marginal earlier-edition p. 312. Archive leaf 313, PDF page 313. Leaf mapping checked against the archive scandata.xml."
     }
-  }
+  },
+  "counterPages": [
+    {
+      "printPage": 292,
+      "pdfPage": 307,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 307
+    },
+    {
+      "printPage": 293,
+      "pdfPage": 308,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 308
+    },
+    {
+      "printPage": 294,
+      "pdfPage": 309,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 309
+    },
+    {
+      "printPage": 295,
+      "pdfPage": 310,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 310
+    },
+    {
+      "printPage": 296,
+      "pdfPage": 311,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 311
+    },
+    {
+      "printPage": 297,
+      "pdfPage": 312,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 312
+    },
+    {
+      "printPage": 298,
+      "pdfPage": 313,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 313
+    },
+    {
+      "printPage": 299,
+      "pdfPage": 314,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 314
+    },
+    {
+      "printPage": 300,
+      "pdfPage": 315,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 315
+    },
+    {
+      "printPage": 301,
+      "pdfPage": 316,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 316
+    },
+    {
+      "printPage": 302,
+      "pdfPage": 317,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 317
+    },
+    {
+      "printPage": 303,
+      "pdfPage": 318,
+      "scaleTo": 1550,
+      "jpegQuality": 85,
+      "archiveLeaf": 318
+    }
+  ],
+  "scandataUrl": "https://archive.org/download/heronisalexandr00schogoog/heronisalexandr00schogoog_scandata.xml"
 }
