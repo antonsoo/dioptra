@@ -2,7 +2,7 @@
   "name": "@antonsoloviev/dioptra",
   "version": "0.1.0",
   "private": true,
-  "description": "Read Hero\u2019s Greek, aim an unseen tunnel and measure a spring\u2019s supply by collected water and time.",
+  "description": "Read Hero’s Greek, aim an unseen tunnel, measure a spring’s supply, and calibrate a distance counter by trial.",
   "type": "module",
   "author": "Anton Soloviev <anton@praviel.com>",
   "license": "MIT",
@@ -17,7 +17,9 @@
     "surveying",
     "hero-of-alexandria",
     "education",
-    "dioptra"
+    "dioptra",
+    "hodometer",
+    "calibration"
   ],
   "engines": {
     "node": ">=24"
@@ -34,7 +36,10 @@
     "verify:survey": "node --import tsx scripts/survey-cases.ts | python3 scripts/survey-oracle.py",
     "test:browser": "node scripts/browser-review.mjs",
     "verify:flow": "node --import tsx scripts/flow-cases.ts | python3 scripts/flow-oracle.py",
-    "test:flow": "node scripts/flow-browser.mjs"
+    "test:flow": "node scripts/flow-browser.mjs",
+    "verify:counter": "node --import tsx scripts/counter-cases.ts | python3 scripts/counter-oracle.py",
+    "test:counter": "node scripts/counter-browser.mjs",
+    "verify:counter-sources": "python3 scripts/counter-source-review.py"
   },
   "devDependencies": {
     "@axe-core/playwright": "4.14.0",

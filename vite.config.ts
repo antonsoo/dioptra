@@ -23,6 +23,7 @@ export default defineConfig(async ({ command }) => {
     ...(await filesIn("public")),
     "index.html",
     "flow.html",
+    "counter.html",
     "LICENSE",
     "vite.config.ts",
     "tsconfig.json",
@@ -42,6 +43,7 @@ export default defineConfig(async ({ command }) => {
         input: {
           main: "index.html",
           flow: "flow.html",
+          counter: "counter.html",
         },
       },
     },

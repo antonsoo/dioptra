@@ -1,0 +1,73 @@
+.ct-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.ct-svg text {
+  font:
+    15px "Survey Sans",
+    sans-serif;
+  fill: #223e4b;
+}
+.ct-svg .ct-caption {
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+.ct-svg .ct-dial-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+.ct-svg .ct-amount {
+  font:
+    28px "Survey Serif",
+    serif;
+}
+.ct-svg .ct-ring {
+  fill: #edf3f2;
+  stroke: #7d969d;
+  stroke-width: 1.4;
+}
+.ct-svg .ct-inner {
+  fill: none;
+  stroke: #c3d0d0;
+  stroke-width: 1;
+}
+.ct-svg .ct-mark {
+  stroke: #617c86;
+  stroke-width: 1.2;
+}
+.ct-svg .ct-pin {
+  fill: #ccd9db;
+  stroke: #617c86;
+}
+.ct-svg .ct-pin-active {
+  fill: #9b6327;
+  stroke: #7c481b;
+}
+.ct-svg .ct-needle {
+  stroke: #244f62;
+  stroke-width: 3;
+  stroke-linecap: round;
+}
+.ct-svg .ct-coarse {
+  stroke: #4c796c;
+}
+.ct-svg .ct-input {
+  stroke: #9b6327;
+}
+.ct-svg .ct-hub {
+  fill: #244f62;
+}
+.ct-svg .ct-link {
+  fill: none;
+  stroke: #617c86;
+  stroke-width: 1.5;
+}
+.ct-svg .ct-progress {
+  fill: none;
+  stroke: #9b6327;
+  stroke-width: 7;
+}
+.ct-svg .ct-origin {
+  fill: #9b6327;
+}
