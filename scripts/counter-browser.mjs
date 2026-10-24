@@ -9,12 +9,17 @@ import AxeBuilder from "@axe-core/playwright";
 import { chromium, firefox } from "playwright";
 
 const out = path.resolve(process.argv[2] ?? "/tmp/dioptra-counter-browser");
+const externalBase = process.argv[3] ? new URL(process.argv[3]).href : null;
+if (externalBase && (!externalBase.endsWith("/dioptra/") || !externalBase.startsWith("https://")))
+  throw new Error("Hosted review requires an HTTPS base ending in /dioptra/.");
 await mkdir(out, { recursive: true });
 const digest = (b) => createHash("sha256").update(b).digest("hex");
 const manifest = JSON.parse(await readFile("public/sources/manifest.json", "utf8"));
 const report = {
   checkedAt: new Date().toISOString(),
-  mode: "local production",
+  mode: externalBase ? "canonical hosted production" : "local production",
+  baseURL: externalBase,
+  integrityScope: "Controlled local production responses; separate from the hosted browser matrix",
   workerSha256: digest(await readFile("dist/sw.js")),
   configurations: [],
   integrity: [],
@@ -118,6 +123,7 @@ for (const [name, engine] of [
   try {
     for (const width of [1440, 375]) {
       const server = await serve(),
+        base = externalBase ?? server.base,
         folder = path.join(out, `${name}-${width}`);
       await mkdir(folder, { recursive: true });
       const context = await browser.newContext({
@@ -136,10 +142,9 @@ for (const [name, engine] of [
           if (m.type() === "error") consoleErrors.push(m.text());
         });
         page.on("request", (r) => {
-          if (/^https?:/.test(r.url()) && !r.url().startsWith(server.base))
-            externalRequests.push(r.url());
+          if (/^https?:/.test(r.url()) && !r.url().startsWith(base)) externalRequests.push(r.url());
         });
-        await page.goto(`${server.base}counter.html`);
+        await page.goto(`${base}counter.html`);
         await page.evaluate(() => document.fonts.ready);
         await noOverflow(page);
         for (const [w, trial] of [
@@ -151,13 +156,13 @@ for (const [name, engine] of [
           [7199, 30],
         ]) {
           await page.goto(
-            `${server.base}counter.html?w=${w}&trial=${trial}&probe=${trial}&scale=measured`,
+            `${base}counter.html?w=${w}&trial=${trial}&probe=${trial}&scale=measured`,
           );
           await page.evaluate(() => document.fonts.ready);
           await noOverflow(page);
           await svgBounds(page);
         }
-        await page.goto(`${server.base}counter.html`);
+        await page.goto(`${base}counter.html`);
         await page.evaluate(() => document.fonts.ready);
         await page.locator("#ct-cutaway").click();
         assert.equal(await page.locator("#ct-source-select").inputValue(), "295");
@@ -350,12 +355,14 @@ for (const [name, engine] of [
         });
         assert(cache.includes("/dioptra/counter.html"));
         assert(cache.includes("/dioptra/sources/schone-303.jpg"));
-        server.offline();
-        await assert.rejects(fetch(`${server.base}counter.html`));
+        if (!externalBase) {
+          server.offline();
+          await assert.rejects(fetch(`${base}counter.html`));
+        }
         await context.setOffline(true);
         const rooms = [];
         for (const room of ["index.html", "flow.html", "counter.html"]) {
-          await page.goto(server.base + room);
+          await page.goto(base + room);
           assert((await page.locator("h1").innerText()).length > 5);
           await noOverflow(page);
           rooms.push(room);
@@ -393,8 +400,9 @@ for (const [name, engine] of [
           embeddedCsvMatches: true,
           offlineRooms: rooms,
           cacheFiles: cache.length,
-          offlineMethod:
-            "Origin physically disabled and independently unreachable; browser context also offline",
+          offlineMethod: externalBase
+            ? "Browser context offline after installing the canonical hosted edition; public origin not controlled"
+            : "Origin physically disabled and independently unreachable; browser context also offline",
           axeViolations: 0,
           pageErrors: errors,
           consoleErrors,

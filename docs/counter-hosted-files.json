@@ -1,0 +1,450 @@
+{
+  "schemaVersion": 1,
+  "node": "v26.7.0",
+  "requestTimeoutMs": 10000,
+  "retryWindowMs": 180000,
+  "pollIntervalMs": 5000,
+  "concurrency": 6,
+  "baseURL": "https://antonsoo.github.io/dioptra/",
+  "state": "verified",
+  "attempts": 1,
+  "startedAtUtc": "2026-10-24T23:49:50.591Z",
+  "checkedAtUtc": "2026-10-24T23:49:56.783Z",
+  "buildManifestSha256": "b5c15e270aaa42468ad4f1b2901c7ca4988239e876e3d1b8852e5c9c1104cba9",
+  "expectedFileCount": 41,
+  "checkedFileCount": 41,
+  "verifiedFileCount": 41,
+  "rootBefore": {
+    "path": "index.html",
+    "bytes": 1081,
+    "sha256": "c9dc656b0f84c51b0798018108d7705a85c3133735fc19cc7dd5e2a86cdb12b0",
+    "url": "https://antonsoo.github.io/dioptra/",
+    "httpStatus": 200,
+    "observedBytes": 1081,
+    "observedSha256": "c9dc656b0f84c51b0798018108d7705a85c3133735fc19cc7dd5e2a86cdb12b0",
+    "state": "verified"
+  },
+  "rootAfter": {
+    "path": "index.html",
+    "bytes": 1081,
+    "sha256": "c9dc656b0f84c51b0798018108d7705a85c3133735fc19cc7dd5e2a86cdb12b0",
+    "url": "https://antonsoo.github.io/dioptra/",
+    "httpStatus": 200,
+    "observedBytes": 1081,
+    "observedSha256": "c9dc656b0f84c51b0798018108d7705a85c3133735fc19cc7dd5e2a86cdb12b0",
+    "state": "verified"
+  },
+  "files": [
+    {
+      "path": "assets/counter-BIpS-HWy.js",
+      "bytes": 58915,
+      "sha256": "bc8f960fab2f6e714ee34c8725cc6b4ddd1ebb1c22733a7490cd75f5a38ab9a5",
+      "url": "https://antonsoo.github.io/dioptra/assets/counter-BIpS-HWy.js",
+      "httpStatus": 200,
+      "observedBytes": 58915,
+      "observedSha256": "bc8f960fab2f6e714ee34c8725cc6b4ddd1ebb1c22733a7490cd75f5a38ab9a5",
+      "state": "verified"
+    },
+    {
+      "path": "assets/counter-UyAbvOSE.css",
+      "bytes": 18944,
+      "sha256": "bd77a6530f3863532f6273dbcf562517a03ab628d64219aaa3c326940aef82cf",
+      "url": "https://antonsoo.github.io/dioptra/assets/counter-UyAbvOSE.css",
+      "httpStatus": 200,
+      "observedBytes": 18944,
+      "observedSha256": "bd77a6530f3863532f6273dbcf562517a03ab628d64219aaa3c326940aef82cf",
+      "state": "verified"
+    },
+    {
+      "path": "assets/flow-BUSdbjnl.css",
+      "bytes": 17905,
+      "sha256": "575850f4db409f42bf1c8c0cec0ab9f01b9fd9cc2b8c516d3f1fcaad82856ca9",
+      "url": "https://antonsoo.github.io/dioptra/assets/flow-BUSdbjnl.css",
+      "httpStatus": 200,
+      "observedBytes": 17905,
+      "observedSha256": "575850f4db409f42bf1c8c0cec0ab9f01b9fd9cc2b8c516d3f1fcaad82856ca9",
+      "state": "verified"
+    },
+    {
+      "path": "assets/flow-CzjdZJFN.js",
+      "bytes": 48355,
+      "sha256": "b8c36e712bfa30c28cd5fa9ed9b0edb15ca85d5089fbfb4db9c0ca6f9e21d2ab",
+      "url": "https://antonsoo.github.io/dioptra/assets/flow-CzjdZJFN.js",
+      "httpStatus": 200,
+      "observedBytes": 48355,
+      "observedSha256": "b8c36e712bfa30c28cd5fa9ed9b0edb15ca85d5089fbfb4db9c0ca6f9e21d2ab",
+      "state": "verified"
+    },
+    {
+      "path": "assets/main-CjbB0rc5.js",
+      "bytes": 21055,
+      "sha256": "ada51b224a4b3787b1811baa79cf5f2e6dcc6f41d4a698a2087164c69ec9c2bf",
+      "url": "https://antonsoo.github.io/dioptra/assets/main-CjbB0rc5.js",
+      "httpStatus": 200,
+      "observedBytes": 21055,
+      "observedSha256": "ada51b224a4b3787b1811baa79cf5f2e6dcc6f41d4a698a2087164c69ec9c2bf",
+      "state": "verified"
+    },
+    {
+      "path": "assets/main-D2wZ2yLE.css",
+      "bytes": 13366,
+      "sha256": "0e6fde2d954c491c32dca2876968493bc1dc10e8854d743c0643e0004d50425c",
+      "url": "https://antonsoo.github.io/dioptra/assets/main-D2wZ2yLE.css",
+      "httpStatus": 200,
+      "observedBytes": 13366,
+      "observedSha256": "0e6fde2d954c491c32dca2876968493bc1dc10e8854d743c0643e0004d50425c",
+      "state": "verified"
+    },
+    {
+      "path": "assets/offline-VH_EB7N1.js",
+      "bytes": 34603,
+      "sha256": "bec089c9612b5a00c60e67fdef759ad8cba90798dcca077a2553b0150bab600c",
+      "url": "https://antonsoo.github.io/dioptra/assets/offline-VH_EB7N1.js",
+      "httpStatus": 200,
+      "observedBytes": 34603,
+      "observedSha256": "bec089c9612b5a00c60e67fdef759ad8cba90798dcca077a2553b0150bab600c",
+      "state": "verified"
+    },
+    {
+      "path": "counter.html",
+      "bytes": 1019,
+      "sha256": "f3dc951c13d6a0a06cb8a67089b85495e8daa8779e4b337f7dfa1bde8c6e5d44",
+      "url": "https://antonsoo.github.io/dioptra/counter.html",
+      "httpStatus": 200,
+      "observedBytes": 1019,
+      "observedSha256": "f3dc951c13d6a0a06cb8a67089b85495e8daa8779e4b337f7dfa1bde8c6e5d44",
+      "state": "verified"
+    },
+    {
+      "path": "flow.html",
+      "bytes": 1039,
+      "sha256": "f78399563ed8d1ce0373e242ab2daac28b5a05a24eccaad39636cf9742b85c40",
+      "url": "https://antonsoo.github.io/dioptra/flow.html",
+      "httpStatus": 200,
+      "observedBytes": 1039,
+      "observedSha256": "f78399563ed8d1ce0373e242ab2daac28b5a05a24eccaad39636cf9742b85c40",
+      "state": "verified"
+    },
+    {
+      "path": "fonts/IBMPlex-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "url": "https://antonsoo.github.io/dioptra/fonts/IBMPlex-OFL.txt",
+      "httpStatus": 200,
+      "observedBytes": 4456,
+      "observedSha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "state": "verified"
+    },
+    {
+      "path": "fonts/IBMPlexSans-Regular.woff2",
+      "bytes": 63020,
+      "sha256": "ba711a3085ff9f27440b6b9c4550cfc47c97bf36591d5da958b975bb3add8c1a",
+      "url": "https://antonsoo.github.io/dioptra/fonts/IBMPlexSans-Regular.woff2",
+      "httpStatus": 200,
+      "observedBytes": 63020,
+      "observedSha256": "ba711a3085ff9f27440b6b9c4550cfc47c97bf36591d5da958b975bb3add8c1a",
+      "state": "verified"
+    },
+    {
+      "path": "fonts/IBMPlexSans-SemiBold.woff2",
+      "bytes": 67060,
+      "sha256": "f78048030eab62e860efa39a0df79e2e5581bf122eb95b9bc42c0b8a4988d205",
+      "url": "https://antonsoo.github.io/dioptra/fonts/IBMPlexSans-SemiBold.woff2",
+      "httpStatus": 200,
+      "observedBytes": 67060,
+      "observedSha256": "f78048030eab62e860efa39a0df79e2e5581bf122eb95b9bc42c0b8a4988d205",
+      "state": "verified"
+    },
+    {
+      "path": "fonts/NotoSerif-OFL.txt",
+      "bytes": 4396,
+      "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a",
+      "url": "https://antonsoo.github.io/dioptra/fonts/NotoSerif-OFL.txt",
+      "httpStatus": 200,
+      "observedBytes": 4396,
+      "observedSha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a",
+      "state": "verified"
+    },
+    {
+      "path": "fonts/NotoSerif-Regular.ttf",
+      "bytes": 444064,
+      "sha256": "5473d2e43bdd018ee124a4addba8091fd0a29894b121cbb741023af6549662b6",
+      "url": "https://antonsoo.github.io/dioptra/fonts/NotoSerif-Regular.ttf",
+      "httpStatus": 200,
+      "observedBytes": 444064,
+      "observedSha256": "5473d2e43bdd018ee124a4addba8091fd0a29894b121cbb741023af6549662b6",
+      "state": "verified"
+    },
+    {
+      "path": "icon.svg",
+      "bytes": 339,
+      "sha256": "094b244faf08f228df1be1895fc726a9bfdd29076f849d66c217687827123aeb",
+      "url": "https://antonsoo.github.io/dioptra/icon.svg",
+      "httpStatus": 200,
+      "observedBytes": 339,
+      "observedSha256": "094b244faf08f228df1be1895fc726a9bfdd29076f849d66c217687827123aeb",
+      "state": "verified"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1081,
+      "sha256": "c9dc656b0f84c51b0798018108d7705a85c3133735fc19cc7dd5e2a86cdb12b0",
+      "url": "https://antonsoo.github.io/dioptra/index.html",
+      "httpStatus": 200,
+      "observedBytes": 1081,
+      "observedSha256": "c9dc656b0f84c51b0798018108d7705a85c3133735fc19cc7dd5e2a86cdb12b0",
+      "state": "verified"
+    },
+    {
+      "path": "sources/CC-BY-SA-4.0.txt",
+      "bytes": 20138,
+      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5",
+      "url": "https://antonsoo.github.io/dioptra/sources/CC-BY-SA-4.0.txt",
+      "httpStatus": 200,
+      "observedBytes": 20138,
+      "observedSha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5",
+      "state": "verified"
+    },
+    {
+      "path": "sources/NOTICES.txt",
+      "bytes": 3558,
+      "sha256": "ee14fadd47441e38755ac96b01f70567b27c7660c95eb9d53af791976caea18e",
+      "url": "https://antonsoo.github.io/dioptra/sources/NOTICES.txt",
+      "httpStatus": 200,
+      "observedBytes": 3558,
+      "observedSha256": "ee14fadd47441e38755ac96b01f70567b27c7660c95eb9d53af791976caea18e",
+      "state": "verified"
+    },
+    {
+      "path": "sources/dioptra-grc.xml",
+      "bytes": 178478,
+      "sha256": "2a6c4f7e939c8d26dff32ce6713a57c750693cadd69b6c91abe8c19c2fbda37e",
+      "url": "https://antonsoo.github.io/dioptra/sources/dioptra-grc.xml",
+      "httpStatus": 200,
+      "observedBytes": 178478,
+      "observedSha256": "2a6c4f7e939c8d26dff32ce6713a57c750693cadd69b6c91abe8c19c2fbda37e",
+      "state": "verified"
+    },
+    {
+      "path": "sources/manifest.json",
+      "bytes": 7453,
+      "sha256": "b4bf0ce3a59bac69da202cd2b07bc1e021d401a0c039cbb922ad9dfdf01f29e8",
+      "url": "https://antonsoo.github.io/dioptra/sources/manifest.json",
+      "httpStatus": 200,
+      "observedBytes": 7453,
+      "observedSha256": "b4bf0ce3a59bac69da202cd2b07bc1e021d401a0c039cbb922ad9dfdf01f29e8",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-238.jpg",
+      "bytes": 288094,
+      "sha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-238.jpg",
+      "httpStatus": 200,
+      "observedBytes": 288094,
+      "observedSha256": "7c522d6280a658413f368732f0e1fbf45e1242a45c429e5bf51768c766e910b7",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-239.jpg",
+      "bytes": 423176,
+      "sha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-239.jpg",
+      "httpStatus": 200,
+      "observedBytes": 423176,
+      "observedSha256": "69b3c015e1c21c67302b2201d7b6f3ec735efd78a2c10e1fe5447dc787a0ec20",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-240.jpg",
+      "bytes": 412879,
+      "sha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-240.jpg",
+      "httpStatus": 200,
+      "observedBytes": 412879,
+      "observedSha256": "97cd0e70fb289b4620a9f45862e4a062325e520445d1b1de2c41151f6b379e40",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-241.jpg",
+      "bytes": 440739,
+      "sha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-241.jpg",
+      "httpStatus": 200,
+      "observedBytes": 440739,
+      "observedSha256": "9b7d2f2e5e501cd5ff1ad669f921a995c996254b5f44cd2e1cef9613f127156d",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-284.jpg",
+      "bytes": 359387,
+      "sha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-284.jpg",
+      "httpStatus": 200,
+      "observedBytes": 359387,
+      "observedSha256": "32ff109b49eaa77b507c5ade01598f6105686ba3a9d2d9a7c49b7ad1d5916f84",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-285.jpg",
+      "bytes": 276032,
+      "sha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-285.jpg",
+      "httpStatus": 200,
+      "observedBytes": 276032,
+      "observedSha256": "14dfed8a60a62893904677ff16df23e3793c09b5cf7162391b57e5b1f4def638",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-286.jpg",
+      "bytes": 355428,
+      "sha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-286.jpg",
+      "httpStatus": 200,
+      "observedBytes": 355428,
+      "observedSha256": "10871f5164d030766903fa41cd037a784cfa1b7bf18a6d8d242782b4d0d2e36f",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-287.jpg",
+      "bytes": 380742,
+      "sha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-287.jpg",
+      "httpStatus": 200,
+      "observedBytes": 380742,
+      "observedSha256": "f5ceb713d1720b222303ea9472ad0459fcc4fba154faaf6f97c980f24789f1a1",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-292.jpg",
+      "bytes": 344299,
+      "sha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-292.jpg",
+      "httpStatus": 200,
+      "observedBytes": 344299,
+      "observedSha256": "aa9db82de81c9c991ab2b093e95863398601c141cd737118bc783925e9b98416",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-293.jpg",
+      "bytes": 368128,
+      "sha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-293.jpg",
+      "httpStatus": 200,
+      "observedBytes": 368128,
+      "observedSha256": "ec8e77db5cbe6aa5122d323fa83d7c1742a0bc61ac9838da07004f1281588e1a",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-294.jpg",
+      "bytes": 359916,
+      "sha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-294.jpg",
+      "httpStatus": 200,
+      "observedBytes": 359916,
+      "observedSha256": "c74471d9067efb9dec7d27f469c3293814ff9b11b20284c829374c4cb2fb038c",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-295.jpg",
+      "bytes": 262090,
+      "sha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-295.jpg",
+      "httpStatus": 200,
+      "observedBytes": 262090,
+      "observedSha256": "81c617ac8c98e0b0996c8c7a668289d96c58eefc3eb56d75471473f234803aeb",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-296.jpg",
+      "bytes": 350934,
+      "sha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-296.jpg",
+      "httpStatus": 200,
+      "observedBytes": 350934,
+      "observedSha256": "d2b2232591531aa00c0e2bb9dd3b2baa5b4634d327b87ee856d0af1549d99251",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-297.jpg",
+      "bytes": 392895,
+      "sha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-297.jpg",
+      "httpStatus": 200,
+      "observedBytes": 392895,
+      "observedSha256": "75813697a94d0caf78496200ac67eca9a1912b83dbccbad6ce89c4f521240e9f",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-298.jpg",
+      "bytes": 357281,
+      "sha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-298.jpg",
+      "httpStatus": 200,
+      "observedBytes": 357281,
+      "observedSha256": "0d173c3a13921bbb835cc52d3427dccb2efef8240eca9cdb93d0b749401d7a1b",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-299.jpg",
+      "bytes": 386958,
+      "sha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-299.jpg",
+      "httpStatus": 200,
+      "observedBytes": 386958,
+      "observedSha256": "622db4021216ecaf58464eda58cc9193f4d7ff12314ba02f65bc4f54cf79c375",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-300.jpg",
+      "bytes": 348672,
+      "sha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-300.jpg",
+      "httpStatus": 200,
+      "observedBytes": 348672,
+      "observedSha256": "9a11e152b23c4e8c5f6a358ca441a13cb1775412cc98c8c0a32f073a53426c17",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-301.jpg",
+      "bytes": 395356,
+      "sha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-301.jpg",
+      "httpStatus": 200,
+      "observedBytes": 395356,
+      "observedSha256": "6349cac335f23a739a70a34618572acbd985311c9d71bcb003f1e1eb6dc384d7",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-302.jpg",
+      "bytes": 354469,
+      "sha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-302.jpg",
+      "httpStatus": 200,
+      "observedBytes": 354469,
+      "observedSha256": "ab5fb1c405610d11c19eab1ade2724de00e1e8928d7b9e941f7ef61c4102c62f",
+      "state": "verified"
+    },
+    {
+      "path": "sources/schone-303.jpg",
+      "bytes": 346584,
+      "sha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7",
+      "url": "https://antonsoo.github.io/dioptra/sources/schone-303.jpg",
+      "httpStatus": 200,
+      "observedBytes": 346584,
+      "observedSha256": "97ba5c68ad545de9b01593c50d2dd0d5c98e5a88587cf91a85276158401ea7e7",
+      "state": "verified"
+    },
+    {
+      "path": "sw.js",
+      "bytes": 7181,
+      "sha256": "8cfbc906424a3e8b74ad67718c30b6127998c33762d95f6d8479f4fd3251144d",
+      "url": "https://antonsoo.github.io/dioptra/sw.js",
+      "httpStatus": 200,
+      "observedBytes": 7181,
+      "observedSha256": "8cfbc906424a3e8b74ad67718c30b6127998c33762d95f6d8479f4fd3251144d",
+      "state": "verified"
+    }
+  ],
+  "scope": "Compares canonical responses with this captured build inventory during the recorded pass. Extra hosted files, browser behavior, public source, registry releases and deployment provenance are not established."
+}

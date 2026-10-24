@@ -21,8 +21,8 @@ a worm advancing one tooth per turn, then asks the operator to test the ratio.
 His supposed trial takes **twenty turns** to move a **thirty-tooth** wheel
 through one complete revolution. The distance written on its dial must change.
 
-Run locally using the quickstart below, then open
-`http://127.0.0.1:4344/dioptra/counter.html`.
+Open the [calibration workshop](https://antonsoo.github.io/dioptra/counter.html),
+or run locally using the quickstart below.
 
 ![Completed twenty-turn trial and the measured distance graduation](docs/assets/counter-calibration.png)
 
@@ -49,6 +49,7 @@ as one script-free HTML file, with scans, fonts and licenses embedded. The
 three-room production edition saves all of its sources offline.
 
 [Source and model](docs/counter-model.md) · [Development review](docs/counter-review.md) ·
+[Publication review](docs/counter-publication.md) ·
 [Actual saved reading](examples/counter-reading.html) ·
 [22-page PDF](examples/counter-reading.pdf) ·
 [Dials SVG](examples/counter.svg) · [Checkpoints CSV](examples/counter.csv).

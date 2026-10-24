@@ -1,5 +1,9 @@
 # Count the teeth. Then measure: development review
 
+This records the development review before publication. The subsequently
+authorized source push, Pages push, canonical file identities and hosted browser
+workflows are recorded separately in the [publication review](counter-publication.md).
+
 Dioptra's third room makes a specific Greek engineering argument usable:
 the number of teeth does not establish the distance scale until the operator
 has tested the driving ratio. The work is local source and a reviewed production
