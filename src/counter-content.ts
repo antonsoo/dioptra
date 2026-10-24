@@ -174,17 +174,17 @@ export const counterSources = Array.from({ length: 12 }, (_, i) => {
   const page = 292 + i;
   const titles: Record<number, string> = {
     292: "Chapter 34 begins; a gap in the construction",
-    293: "Facing German: the purpose and missing description",
+    293: "Facing German: the purpose and earlier instruments",
     294: "The eight-pin input and successive worm shafts",
     295: "Facing German and the edition’s cutaway (figure 114)",
     296: "The theoretical ratios and the daily capacity",
-    297: "Facing German: 7,200 turns and 180 stadia",
+    297: "Facing German: successive reductions and 7,200 turns",
     298: "The complete trial and the new graduation",
     299: "Facing German: twenty turns and 53 1/3 cubits",
     300: "External pointers, larger circles and alternating walls",
     301: "Facing German: reading outside the box",
     302: "The final lid instruction; chapter 35 begins",
-    303: "Facing German: chapter ending and next task",
+    303: "Facing German: chapter 35 begins",
   };
   return { page, title: titles[page] ?? "Printed source", file: `schone-${page}.jpg` };
 });
