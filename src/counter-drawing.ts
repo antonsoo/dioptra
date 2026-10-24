@@ -20,9 +20,9 @@ export function counterDrawing(s: CounterState, narrow = false, id = "counter") 
     height = narrow ? 1000 : 370;
   const positions = narrow
     ? [
-        [170, 155],
-        [170, 480],
-        [170, 805],
+        [170, 165],
+        [170, 490],
+        [170, 815],
       ]
     : [
         [150, 175],
@@ -36,7 +36,7 @@ export function counterDrawing(s: CounterState, narrow = false, id = "counter") 
     "03 / SECOND WORM REDUCTION",
   ];
   const bottom = [
-    `${f(s.turns / 8)} input shaft turns`,
+    `${f(s.turns / 8)} shaft turns`,
     `${f(m.firstTick)} / 30 divisions`,
     `${f(m.secondTick)} / 30 divisions`,
   ];
