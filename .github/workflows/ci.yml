@@ -16,5 +16,8 @@ jobs:
       - run: npm ci
       - run: npm run check
       - run: npm run verify:survey
+      - run: npm run verify:counter
+      - run: npm run verify:counter-sources
       - run: npx playwright install --with-deps chromium firefox
       - run: npm run test:browser -- /tmp/dioptra-browser
+      - run: npm run test:counter -- /tmp/dioptra-counter-browser
