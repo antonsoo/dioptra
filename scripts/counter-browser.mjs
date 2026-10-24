@@ -41,9 +41,8 @@ async function serve() {
           ".woff2": "font/woff2",
           ".ttf": "font/ttf",
         }[path.extname(file)] ?? "application/octet-stream";
-      res
-        .writeHead(200, { "Content-Type": type, "Cache-Control": "no-store" })
-        .end(await readFile(path.join("dist", file)));
+      const bytes = await readFile(path.join("dist", file));
+      res.writeHead(200, { "Content-Type": type, "Cache-Control": "no-store" }).end(bytes);
     } catch {
       res.writeHead(404).end();
     }
