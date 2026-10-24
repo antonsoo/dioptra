@@ -99,5 +99,17 @@ previous one-room production build. No dependencies were added.
 
 ## Publication
 
-Local review is complete. Fresh-install and public-byte evidence will be added
-when this two-room edition is published.
+The [two-room edition is public](https://antonsoo.github.io/dioptra/flow.html).
+Source publication: `24d27f8`; runtime archive: `519e2fb`; Pages: `25f43e9`.
+A fresh Node 24.22.0 install and check reproduce all **26 files / 3,867,144 bytes**
+exactly ([fresh build](flow/build.json)). All 26 public files match those hashes
+([hosted files](flow/hosted-files.json)).
+
+The [public browser journeys](flow/hosted-browser.json) pass in both engines at
+1440 and 375 pixels, including native files, all four decoded source pages,
+complete saved readings and both rooms in browser offline mode. That hosted
+observation does not disable GitHub's origin; the local origin-disabled and
+failed-upgrade evidence above establish the stronger offline boundary.
+
+Source and Pages were pushed with ordinary fast-forward updates. Older hashed
+assets remain available to readers holding a cached entry page.

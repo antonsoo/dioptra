@@ -10,12 +10,12 @@ Hermann Schöne, _Herons von Alexandria Vermessungslehre und Dioptra_
 (Leipzig: Teubner, 1903), pp. 284–287. Chapter 31 starts below chapter 30 on
 p. 284 and ends above chapter 32 on p. 286. The odd pages carry German.
 
-| Printed page | PDF page, one-based | Archive leaf | Content retained |
-| --- | ---: | ---: | --- |
-| 284 | 299 | 299 | Greek opening, rain/drought, enclosure and outlet |
-| 285 | 300 | 300 | Facing German opening below chapter 30 |
-| 286 | 301 | 301 | Greek section, speed, timed collection and apparatus |
-| 287 | 302 | 302 | Facing German continuation and conclusion |
+| Printed page | PDF page, one-based | Archive leaf | Content retained                                     |
+| ------------ | ------------------: | -----------: | ---------------------------------------------------- |
+| 284          |                 299 |          299 | Greek opening, rain/drought, enclosure and outlet    |
+| 285          |                 300 |          300 | Facing German opening below chapter 30               |
+| 286          |                 301 |          301 | Greek section, speed, timed collection and apparatus |
+| 287          |                 302 |          302 | Facing German continuation and conclusion            |
 
 The complete PDF is the public-domain Google Books scan at
 [Internet Archive](https://archive.org/details/heronisalexandr00schogoog).
@@ -37,7 +37,6 @@ new diagrams are MIT. Complete notices accompany both the site and saved HTML.
 
 All chapter prose is represented in eleven units; these are divisions for
 learning, not ancient section numbers. No claim is made to a new critical edition.
-
 - Join line-end hyphens and whitespace; normalize apostrophes; omit chapter
   numeral, apparatus, line numbers and editor-deleted letters from the reading.
 - Remove the digital line-join duplicate `μενον` after `στοχασάμενον`, following
@@ -87,13 +86,13 @@ inspection of that record, not a live instrument measurement. It starts only
 on request, updates in tenths, and pauses when controls change or the tab hides.
 No constant display-frame rate is used to infer elapsed time.
 
-| Default 12 by 4 cm section | A | B, constant | B, changes after 10 s |
-| --- | ---: | ---: | ---: |
-| Initial mean speed / cm/s | 10 | 30 | 30 |
-| Final mean speed / cm/s | 10 | 30 | 10 |
-| Collected at 10 s / L | 4.8 | 14.4 | 14.4 |
-| Collected at 20 s / L | 9.6 | 28.8 | 19.2 |
-| Whole-window average / L/s | 0.48 | 1.44 | 0.96 |
+| Default 12 by 4 cm section |    A | B, constant | B, changes after 10 s |
+| -------------------------- | ---: | ----------: | --------------------: |
+| Initial mean speed / cm/s  |   10 |          30 |                    30 |
+| Final mean speed / cm/s    |   10 |          30 |                    10 |
+| Collected at 10 s / L      |  4.8 |        14.4 |                  14.4 |
+| Collected at 20 s / L      |  9.6 |        28.8 |                  19.2 |
+| Whole-window average / L/s | 0.48 |        1.44 |                  0.96 |
 
 For any selected window, subtract the starting collected volume from the end
 volume and divide by elapsed time. The first, last and whole windows are

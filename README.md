@@ -16,7 +16,8 @@ describes them, and distinguish the ideal proof from a deliberately displaced pe
 
 ## Water needs a clock
 
-The new `flow.html` room reads **Dioptra 31**. Two equal stream sections collect
+The [water-collection workshop](https://antonsoo.github.io/dioptra/flow.html)
+reads **Dioptra 31**. Two equal stream sections collect
 9.6 and 28.8 litres in twenty chosen modern seconds. Change the second flow
 halfway through: the total becomes 19.2 litres, and the first ten seconds now
 predict too much. Measure the first, last and whole intervals against the record.
