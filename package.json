@@ -2,7 +2,7 @@
   "name": "@antonsoloviev/dioptra",
   "version": "0.1.0",
   "private": true,
-  "description": "Aim an unseen tunnel with Hero’s right-angle traverse, Greek instructions and an inspectable survey.",
+  "description": "Read Hero\u2019s Greek, aim an unseen tunnel and measure a spring\u2019s supply by collected water and time.",
   "type": "module",
   "author": "Anton Soloviev <anton@praviel.com>",
   "license": "MIT",
@@ -32,7 +32,9 @@
     "test": "node --import tsx --test tests/*.test.ts",
     "check": "npm run lint && npm run typecheck && npm test && npm run build",
     "verify:survey": "node --import tsx scripts/survey-cases.ts | python3 scripts/survey-oracle.py",
-    "test:browser": "node scripts/browser-review.mjs"
+    "test:browser": "node scripts/browser-review.mjs",
+    "verify:flow": "node --import tsx scripts/flow-cases.ts | python3 scripts/flow-oracle.py",
+    "test:flow": "node scripts/flow-browser.mjs"
   },
   "devDependencies": {
     "@axe-core/playwright": "4.14.0",

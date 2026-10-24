@@ -1,6 +1,8 @@
 export async function offlineStatus(element: HTMLElement) {
   if (!import.meta.env.PROD || !("serviceWorker" in navigator)) {
-    element.textContent = "Development preview";
+    element.textContent = import.meta.env.PROD
+      ? "Offline saving unavailable in this browser"
+      : "Development preview";
     return;
   }
   let registration: ServiceWorkerRegistration;

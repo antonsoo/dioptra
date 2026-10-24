@@ -22,6 +22,7 @@ export default defineConfig(async ({ command }) => {
     ...(await filesIn("src")),
     ...(await filesIn("public")),
     "index.html",
+    "flow.html",
     "LICENSE",
     "vite.config.ts",
     "tsconfig.json",
@@ -40,6 +41,7 @@ export default defineConfig(async ({ command }) => {
       rolldownOptions: {
         input: {
           main: "index.html",
+          flow: "flow.html",
         },
       },
     },
