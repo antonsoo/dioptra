@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-labelledby="saved-openings-title saved-openings-desc"><style>svg{font-family:SurveySans,Plex,sans-serif;color:#223e4b}svg text{fill:currentColor}svg .cx-label{font-size:13px}svg .cx-small{font-size:11px}svg .cx-big{font-size:21px;font-weight:600}svg .cx-rule{stroke:#7c969f;stroke-width:1;fill:none}svg .cx-blue{fill:#39758c}svg .cx-ochre{fill:#9b6327}</style><metadata>Dioptra · Modern opening-area comparison, Frontinus I.25–28, 43. Code and diagram © Anton Soloviev 2026, MIT. No digit-to-metre or quinaria-to-flow conversion.
+MIT License
+
+Copyright (c) 2026 Anton Soloviev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</metadata><title id="saved-openings-title">Opening areas at one common length scale</title><desc id="saved-openings-desc">Reference: one circle, diameter five quarters of a source digit. Comparison: 1 separate circles, each diameter 5/2 digits. Total comparison area is 4 times the reference. Circles are separate openings, not a packing diagram.</desc><text x="22" y="27" class="cx-label">REFERENCE</text><text x="209" y="27" class="cx-label">YOUR OPENINGS</text><path d="M173 43V258" class="cx-rule"/><circle cx="80" cy="145" r="23" fill="#39758c" fill-opacity=".16" stroke="#39758c" stroke-width="2"/><path d="M57 145H103M57 140V150M103 140V150" stroke="#39758c"/><text x="80" y="199" text-anchor="middle" class="cx-label">5/4 digits</text><circle cx="296" cy="145" r="46" fill="#9b6327" fill-opacity=".16" stroke="#9b6327" stroke-width="2"/><path d="M250 145H342" stroke="#9b6327"/><text x="22" y="283" class="cx-label">Area 1</text><text x="209" y="283" class="cx-label">Total area 4 ×</text></svg>

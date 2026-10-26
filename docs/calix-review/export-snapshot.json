@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-26T08:23:29.670Z",
+  "rows": [
+    {
+      "browser": "chromium",
+      "snapshotHead": 16,
+      "liveHead": 64,
+      "snapshotTrials": 1,
+      "liveTrials": 2,
+      "saved": "dioptra-calix-reading.html"
+    },
+    {
+      "browser": "firefox",
+      "snapshotHead": 16,
+      "liveHead": 64,
+      "snapshotTrials": 1,
+      "liveTrials": 2,
+      "saved": "dioptra-calix-reading.html"
+    }
+  ],
+  "scope": "A held source request allows the live rig and trial book to change while Save is pending. The native download retains the complete earlier snapshot."
+}

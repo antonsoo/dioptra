@@ -1,0 +1,8 @@
+"Dioptra Frontinus comparison","Modern ideal-orifice ratio experiment; not measured Roman supply"
+"reference","one quinaria opening; diameter 5/4 source digits; head 16 chosen units; reference volume 1 per chosen time unit"
+"assumptions","steady constant heads; common outlet coefficient; negligible approach velocity and pipe losses; no absolute unit conversion"
+"trial","diameter_quarter_digits","outlets","head_chosen_units","chosen_time_units","diameter_source_digits","opening_ratio_exact","head_ratio_exact","squared_flow_ratio_exact","flow_ratio","reference_volume_relative","comparison_volume_relative"
+"1","10","1","16","1","5/2","4","1","16","4.00000000000000","1","4.00000000000000"
+"2","5","4","16","1","5/4","4","1","16","4.00000000000000","1","4.00000000000000"
+"3","10","1","1","1","5/2","4","1/16","1","1.00000000000000","1","1.00000000000000"
+"4","5","1","64","1","5/4","1","4","4","2.00000000000000","1","2.00000000000000"

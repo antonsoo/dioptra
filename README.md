@@ -1,10 +1,12 @@
 # Dioptra
 
 **Measure what the instrument tells you.** Read Hero's Greek, aim an unseen
-tunnel, collect water against time, and calibrate a distance counter by trial.
+tunnel, collect water against time, calibrate a distance counter by trial, and
+compare Frontinus’s Latin pipe measurements with a controlled opening experiment.
 
 [Workshop](https://antonsoo.github.io/dioptra/) · [Code: MIT](LICENSE) ·
-[Text and source licenses](public/sources/NOTICES.txt) · [Model](docs/model.md)
+[Greek text and source licenses](public/sources/NOTICES.txt) ·
+[Frontinus notices](public/sources/frontinus/NOTICES.txt) · [Model](docs/model.md)
 
 The long walk around a mountain is not the distance through it. Hero's
 _Dioptra_ 15 uses right angles and signed distances to determine an unseen
@@ -13,6 +15,37 @@ This field book lets a learner perform those operations, read the Greek that
 describes them, and distinguish the ideal proof from a deliberately displaced peg.
 
 ![The measured circuit, outside aiming points and two lines through the mountain](docs/assets/survey-desktop.png)
+
+## A name can conceal a square
+
+The fourth room, **`calix.html`**, reads Frontinus’s Roman water account in Latin.
+A quinaria’s probable name counts five quarter-digits across its diameter. The
+ten-pipe doubles that diameter and the printed text reports four quinariae.
+The name, the opening area and actual delivery are separate quantities.
+
+[Try the pipe-opening workshop](https://antonsoo.github.io/dioptra/calix.html).
+![A doubled opening and equal model delivery at one-sixteenth the head](docs/assets/calix-desktop.png)
+
+Double a diameter, substitute four small openings, then lower the head to
+one-sixteenth: the wider opening returns to equal relative delivery in a modern
+constant-head ideal-orifice comparison. Four times the head through the same
+opening doubles delivery. Keep the conditions in a twelve-entry trial book,
+share it, or save exact-ratio CSV and an openings SVG.
+
+Nine selected Latin readings with new English and contextual word notes sit
+beside six complete pages of Bücheler’s 1858 edition. “With less pressure” is
+Frontinus’s own qualification. His bronze _calix_ is at least twelve digits long;
+our ideal opening has no modeled tube length. The experiment does not turn a
+quinaria into litres per second, replace disputed table fractions, or claim a
+hydraulic reconstruction of an ancient fitting.
+
+The illustrated HTML download retains the setup, trial book, all readings,
+full source images, fonts and licenses. It opens from disk without network
+requests and prints with a separate sheet for each source page.
+
+[Source and model](docs/calix-model.md) · [Review](docs/calix-review.md) ·
+[Saved reading](examples/calix-reading.html) · [13-page PDF](examples/calix-reading.pdf) ·
+[Trial CSV](examples/calix-trials.csv) · [Openings SVG](examples/calix-openings.svg).
 
 ## Count the teeth. Then measure.
 
@@ -46,7 +79,7 @@ is invented.
 
 Save the dials as SVG, checkpoints as CSV, or the complete illustrated reading
 as one script-free HTML file, with scans, fonts and licenses embedded. The
-three-room production edition saves all of its sources offline.
+four-room production edition saves all of its sources offline.
 
 [Source and model](docs/counter-model.md) · [Development review](docs/counter-review.md) ·
 [Publication review](docs/counter-publication.md) ·

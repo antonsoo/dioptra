@@ -1,0 +1,23 @@
+{
+  "base": "http://127.0.0.1:4502/dioptra/",
+  "rows": [
+    {
+      "browser": "chromium",
+      "width": 375,
+      "status": 200,
+      "relativeFlow": 1,
+      "trials": 1,
+      "sourceVerified": true,
+      "errors": []
+    },
+    {
+      "browser": "firefox",
+      "width": 375,
+      "status": 200,
+      "relativeFlow": 1,
+      "trials": 1,
+      "sourceVerified": true,
+      "errors": []
+    }
+  ]
+}

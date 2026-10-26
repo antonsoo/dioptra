@@ -1,0 +1,55 @@
+{
+  "previousWorker": "8cfbc906424a3e8b74ad67718c30b6127998c33762d95f6d8479f4fd3251144d",
+  "currentWorker": "ce9ee57e8aca16ceb9c751a9921e6adc6270fcc0dc1dbf140351883b52136f36",
+  "scope": "Three-room edition to the Frontinus opening experiment, with a new source held or substituted; origin-disabled navigation after recovery",
+  "configurations": [
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "substitutionRejectedAndRecovered": false,
+      "heldRequests": 1,
+      "pendingStatus": "A different offline edition is saved. Reload online to finish updating.",
+      "offlineCalix": true,
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "ca8c23bc9d5d7effbe7132ebf347fa7898f96c469ae6cc25b8da6f0cbfc4c25a"
+    },
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "substitutionRejectedAndRecovered": true,
+      "heldRequests": 1,
+      "pendingStatus": "A different offline edition is saved. Reload online to finish updating.",
+      "offlineCalix": true,
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "ca8c23bc9d5d7effbe7132ebf347fa7898f96c469ae6cc25b8da6f0cbfc4c25a"
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "substitutionRejectedAndRecovered": false,
+      "heldRequests": 1,
+      "pendingStatus": "Finishing the offline installation…",
+      "offlineCalix": true,
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "ca8c23bc9d5d7effbe7132ebf347fa7898f96c469ae6cc25b8da6f0cbfc4c25a"
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "substitutionRejectedAndRecovered": true,
+      "heldRequests": 1,
+      "pendingStatus": "Finishing the offline installation…",
+      "offlineCalix": true,
+      "offlineCounter": true,
+      "offlineFlow": true,
+      "offlineTunnel": true,
+      "offlineScanSha256": "ca8c23bc9d5d7effbe7132ebf347fa7898f96c469ae6cc25b8da6f0cbfc4c25a"
+    }
+  ]
+}
