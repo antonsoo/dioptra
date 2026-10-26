@@ -2,7 +2,7 @@
   "name": "@antonsoloviev/dioptra",
   "version": "0.1.0",
   "private": true,
-  "description": "Read Hero’s Greek, aim an unseen tunnel, measure a spring’s supply, and calibrate a distance counter by trial.",
+  "description": "Read Hero\u2019s Greek, calibrate a distance counter, and compare Frontinus\u2019s Latin pipe measurements with a controlled opening experiment.",
   "type": "module",
   "author": "Anton Soloviev <anton@praviel.com>",
   "license": "MIT",
@@ -19,7 +19,11 @@
     "education",
     "dioptra",
     "hodometer",
-    "calibration"
+    "calibration",
+    "frontinus",
+    "latin",
+    "ancient-rome",
+    "hydraulics"
   ],
   "engines": {
     "node": ">=24"
@@ -39,7 +43,9 @@
     "test:flow": "node scripts/flow-browser.mjs",
     "verify:counter": "node --import tsx scripts/counter-cases.ts | python3 scripts/counter-oracle.py",
     "test:counter": "node scripts/counter-browser.mjs",
-    "verify:counter-sources": "python3 scripts/counter-source-review.py"
+    "verify:counter-sources": "python3 scripts/counter-source-review.py",
+    "test:calix": "node scripts/calix-browser.mjs",
+    "verify:calix-sources": "python3 scripts/calix-source.py"
   },
   "devDependencies": {
     "@axe-core/playwright": "4.14.0",
