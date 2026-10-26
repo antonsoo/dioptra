@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "configuration": "chromium-1440",
+      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "images": 6,
+      "originalFonts": 3,
+      "scriptFree": true,
+      "onlineOfflineIdentical": true,
+      "svgNamespaceAndLicense": true
+    },
+    {
+      "configuration": "chromium-375",
+      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "images": 6,
+      "originalFonts": 3,
+      "scriptFree": true,
+      "onlineOfflineIdentical": true,
+      "svgNamespaceAndLicense": true
+    },
+    {
+      "configuration": "firefox-1440",
+      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "images": 6,
+      "originalFonts": 3,
+      "scriptFree": true,
+      "onlineOfflineIdentical": true,
+      "svgNamespaceAndLicense": true
+    },
+    {
+      "configuration": "firefox-375",
+      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "images": 6,
+      "originalFonts": 3,
+      "scriptFree": true,
+      "onlineOfflineIdentical": true,
+      "svgNamespaceAndLicense": true
+    }
+  ],
+  "pdf": {
+    "sha256": "d5479cf52d7085be7d1f1f0eeb89408d03116d6e6b6d130ab2c576519fce7ef0",
+    "pages": 13,
+    "textWordsWithinPageBounds": 2135,
+    "completeReadingsAndWordNotes": 9,
+    "originalJpegsRecoveredExactly": 6
+  },
+  "scope": "Checks native files created by the browser workflow. Source text correctness additionally requires comparison with the printed witness."
+}

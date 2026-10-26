@@ -1,0 +1,102 @@
+{
+  "files": [
+    {
+      "configuration": "chromium-1440",
+      "file": "trials.csv",
+      "sha256": "b0d7dadb64e75268d0338278c53624fa0e6d3e4ee9af924b693480225345d420",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "chromium-1440",
+      "file": "openings.svg",
+      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "chromium-1440",
+      "file": "reading-online.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "chromium-1440",
+      "file": "reading-offline.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "chromium-375",
+      "file": "trials.csv",
+      "sha256": "b0d7dadb64e75268d0338278c53624fa0e6d3e4ee9af924b693480225345d420",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "chromium-375",
+      "file": "openings.svg",
+      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "chromium-375",
+      "file": "reading-online.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "chromium-375",
+      "file": "reading-offline.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-1440",
+      "file": "trials.csv",
+      "sha256": "b0d7dadb64e75268d0338278c53624fa0e6d3e4ee9af924b693480225345d420",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-1440",
+      "file": "openings.svg",
+      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-1440",
+      "file": "reading-online.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-1440",
+      "file": "reading-offline.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-375",
+      "file": "trials.csv",
+      "sha256": "b0d7dadb64e75268d0338278c53624fa0e6d3e4ee9af924b693480225345d420",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-375",
+      "file": "openings.svg",
+      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-375",
+      "file": "reading-online.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    },
+    {
+      "configuration": "firefox-375",
+      "file": "reading-offline.html",
+      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "matchesLocal": true
+    }
+  ],
+  "matchingFiles": 16,
+  "scope": "Native downloads from canonical hosted browser workflows compared with the reviewed local downloads. PDFs separately checked for complete text and original source images."
+}

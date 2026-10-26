@@ -44,6 +44,7 @@ full source images, fonts and licenses. It opens from disk without network
 requests and prints with a separate sheet for each source page.
 
 [Source and model](docs/calix-model.md) · [Review](docs/calix-review.md) ·
+[Publication review](docs/calix-publication.md) ·
 [Saved reading](examples/calix-reading.html) · [13-page PDF](examples/calix-reading.pdf) ·
 [Trial CSV](examples/calix-trials.csv) · [Openings SVG](examples/calix-openings.svg).
 
