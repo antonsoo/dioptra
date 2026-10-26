@@ -1,0 +1,48 @@
+{
+  "edition": "Franz Buecheler (ed.), Iulii Frontini De aquis urbis Romae libri II, Leipzig: B. G. Teubner, 1858",
+  "source": "https://archive.org/details/iuliifrontinide00bcgoog",
+  "original_pdf": "https://archive.org/download/iuliifrontinide00bcgoog/iuliifrontinide00bcgoog.pdf",
+  "original_pdf_sha256": "add7eaa364b110c590f2f248b70b562e3d2789530bc79de00dcd520be99c34f4",
+  "render": "pdftoppm -f N -l N -singlefile -scale-to 1900 -jpeg -jpegopt quality=88; full uncropped pages, no retouching",
+  "pdf_pages": {
+    "buecheler-title.jpg": 6,
+    "buecheler-014.jpg": 35,
+    "buecheler-015.jpg": 36,
+    "buecheler-017.jpg": 38,
+    "buecheler-018.jpg": 39,
+    "buecheler-019.jpg": 40
+  },
+  "rights": "1858 edition: public domain. Full pages include the critical apparatus. Selected Latin readings follow this edition, not an ancient autograph.",
+  "files": [
+    {
+      "path": "sources/frontinus/buecheler-014.jpg",
+      "sha256": "deba9c7a2793f77269540135ae7d3ee1757815468a12489c4a0f646f0818b69f",
+      "bytes": 452658
+    },
+    {
+      "path": "sources/frontinus/buecheler-015.jpg",
+      "sha256": "97d73df780243b9784f7bf67e3319ea337faa2f041ad61753e792398b98d33ae",
+      "bytes": 445919
+    },
+    {
+      "path": "sources/frontinus/buecheler-017.jpg",
+      "sha256": "9e2b02b031c7a0e9c08f52f46ed62dedf424af26c8e89cea2d1229cac4a2b1bd",
+      "bytes": 432648
+    },
+    {
+      "path": "sources/frontinus/buecheler-018.jpg",
+      "sha256": "e53aeaad182e2a24c7ffd4ad09bec610659ddfbae658f42d02b1f2039904f326",
+      "bytes": 409262
+    },
+    {
+      "path": "sources/frontinus/buecheler-019.jpg",
+      "sha256": "ca8c23bc9d5d7effbe7132ebf347fa7898f96c469ae6cc25b8da6f0cbfc4c25a",
+      "bytes": 422537
+    },
+    {
+      "path": "sources/frontinus/buecheler-title.jpg",
+      "sha256": "b61d8b1f3b038dc47a14962ebaf94f9f23cc36773c00a06f534e8ab6712d2ed1",
+      "bytes": 105672
+    }
+  ]
+}
