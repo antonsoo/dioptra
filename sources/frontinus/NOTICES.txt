@@ -1,0 +1,7 @@
+Frontinus, De aquis urbis Romae I.25–28, 35–36, 43.
+Printed witness: Franz Buecheler (ed.), Leipzig: B. G. Teubner, 1858.
+Public-domain scans: Internet Archive / Harvard University / Google.
+https://archive.org/details/iuliifrontinide00bcgoog
+Six complete uncropped PDF pages rendered with pdftoppm. See manifest.json for identity and mapping.
+Latin excerpts are joined across printed lines and use the edition’s u/v spelling; an ellipsis in I.43 omits circumference figures. New English translations and explanations: Anton Soloviev, 2026, CC BY-SA 4.0. Code and diagrams: MIT.
+The modern constant-head ideal-orifice comparison does not reconstruct the finite-length calix or convert quinariae to flow.
