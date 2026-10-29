@@ -4,7 +4,7 @@
   "private": true,
   "description": "Read Hero\u2019s Greek, calibrate a distance counter, and compare Frontinus\u2019s Latin pipe measurements with a controlled opening experiment.",
   "type": "module",
-  "author": "Anton Soloviev <anton@praviel.com>",
+  "author": "Anthony Mercer <anthony@praviel.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
