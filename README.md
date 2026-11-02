@@ -4,7 +4,7 @@
 tunnel, collect water against time, calibrate a distance counter by trial, and
 compare Frontinus’s Latin pipe measurements with a controlled opening experiment.
 
-[Workshop](https://antonsoo.github.io/dioptra/) · [Code: MIT](LICENSE) ·
+[Workshop](https://antonsoo.github.io/dioptra/) · [Code: PolyForm Noncommercial](LICENSE) ·
 [Greek text and source licenses](public/sources/NOTICES.txt) ·
 [Frontinus notices](public/sources/frontinus/NOTICES.txt) · [Model](docs/model.md)
 
@@ -235,6 +235,8 @@ source-image, printed-reading and previous-edition upgrade evidence.
 
 ## Limits, contribution and licensing
 
+New versions are released under the [PolyForm Noncommercial License 1.0.0](LICENSE). It is free for any noncommercial purpose, including personal study, teaching and research, and for use by charities, schools, universities, research organizations and government institutions. Commercial use needs written permission from Anthony Mercer (anthony@praviel.com). Versions up to commit [`1c69ef5`](https://github.com/antonsoo/dioptra/tree/1c69ef5) (2026-11-01) were released under the MIT License, and copies of those versions keep it.
+
 This is a planar interpretation of a textual construction, not an archaeological
 reconstruction, elevation survey, error model for a real instrument, geological
 simulation or engineering design. The numerical drawing supports exploration;
@@ -243,6 +245,6 @@ print, not a tagged or separately typeset critical edition.
 
 Corrections to source readings and consequential learner workflows are welcome.
 Please include the edition/page or a reproducible example; see
-[CONTRIBUTING](CONTRIBUTING.md). Code and new diagrams are MIT. Greek transcription
+[CONTRIBUTING](CONTRIBUTING.md). Code and new diagrams are PolyForm Noncommercial. Greek transcription
 and new teaching text are CC BY-SA 4.0; historical pages are public domain, and
 fonts retain their SIL Open Font License notices.

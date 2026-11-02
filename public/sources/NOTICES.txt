@@ -1,7 +1,7 @@
 DIOPTRA — SOURCE AND REDISTRIBUTION NOTICES
 
 Code and new geometric diagrams:
-Copyright (c) 2026 Anton Soloviev. MIT license; see the repository LICENSE.
+Copyright (c) 2026 Anthony Mercer. PolyForm Noncommercial license; see the repository LICENSE.
 
 Greek digital transcription:
 Hero of Alexandria, Dioptra, edited by Hermann Schöne, in Herons von
@@ -28,7 +28,7 @@ printed τάχος (speed); the apparatus reading τὸ πάχος (thickness) i
 explicitly discussed. Full pages preserve the apparatus and corrections.
 
 New English translation, grammar, historical notes and teaching prose:
-Copyright (c) 2026 Anton Soloviev. CC BY-SA 4.0, the same license as the
+Copyright (c) 2026 Anthony Mercer. CC BY-SA 4.0, the same license as the
 adapted Greek selections. Attribution must accompany redistribution; adapted
 teaching text must be shared under the same license. The full legal code is
 included as CC-BY-SA-4.0.txt. This does not restrict public-domain material.

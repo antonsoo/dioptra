@@ -65,6 +65,6 @@ export function calixTable(trials: CalixSettings[]): string {
 export function calixSvg(s: CalixSettings, license: string): string {
   return calixBores(s, "saved-openings").replace(
     "<title",
-    `<style>${CALIX_INK}</style><metadata>${html(`Dioptra · Modern opening-area comparison, Frontinus I.25–28, 43. Code and diagram © Anton Soloviev 2026, MIT. No digit-to-metre or quinaria-to-flow conversion.\n${license}`)}</metadata><title`,
+    `<style>${CALIX_INK}</style><metadata>${html(`Dioptra · Modern opening-area comparison, Frontinus I.25–28, 43. Code and diagram © Anthony Mercer 2026, PolyForm Noncommercial. No digit-to-metre or quinaria-to-flow conversion.\n${license}`)}</metadata><title`,
   );
 }

@@ -20,5 +20,5 @@ export const CALIX_ASSETS: Record<string, string> = {
   "sources/frontinus/manifest.json":
     "d74332b0431b026472d41d53ca70daaec75f191b27465047585eabd1ebdc1ae5",
   "sources/frontinus/NOTICES.txt":
-    "04f8370fcf79607e7c35b7ed42388e36eea776055b8c02f5f085d95aa8d85af5",
+    "605409029299ba7439f09dd5fd29819664c749a578017c35f9f890002b57f203",
 };

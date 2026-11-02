@@ -5,7 +5,7 @@
   "description": "Read Hero\u2019s Greek, calibrate a distance counter, and compare Frontinus\u2019s Latin pipe measurements with a controlled opening experiment.",
   "type": "module",
   "author": "Anthony Mercer <anthony@praviel.com>",
-  "license": "MIT",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/antonsoo/dioptra.git"

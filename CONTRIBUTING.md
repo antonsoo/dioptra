@@ -24,6 +24,6 @@ The [counter model](docs/counter-model.md) records the two-stage assumption,
 source's supposed twenty-turn trial and explicit modern 24-turn fixture.
 Keep observed ratios separate from tooth profiles or historical performance.
 
-Code and geometric diagrams use MIT. Teaching text and adapted Greek use
+Code and geometric diagrams use PolyForm Noncommercial. Teaching text and adapted Greek use
 CC BY-SA 4.0; source images and fonts have their own notices. New source material
 must retain attribution, redistribution terms and a stable identity.
