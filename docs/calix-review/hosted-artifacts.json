@@ -2,7 +2,7 @@
   "configurations": [
     {
       "configuration": "chromium-1440",
-      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "htmlSha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "images": 6,
       "originalFonts": 3,
       "scriptFree": true,
@@ -11,7 +11,7 @@
     },
     {
       "configuration": "chromium-375",
-      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "htmlSha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "images": 6,
       "originalFonts": 3,
       "scriptFree": true,
@@ -20,7 +20,7 @@
     },
     {
       "configuration": "firefox-1440",
-      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "htmlSha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "images": 6,
       "originalFonts": 3,
       "scriptFree": true,
@@ -29,7 +29,7 @@
     },
     {
       "configuration": "firefox-375",
-      "htmlSha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "htmlSha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "images": 6,
       "originalFonts": 3,
       "scriptFree": true,
@@ -38,9 +38,9 @@
     }
   ],
   "pdf": {
-    "sha256": "d5479cf52d7085be7d1f1f0eeb89408d03116d6e6b6d130ab2c576519fce7ef0",
+    "sha256": "61aadecd57561bedc3c2cb553136c47996f82f4529421423aa826e7f2e7cb3c4",
     "pages": 13,
-    "textWordsWithinPageBounds": 2135,
+    "textWordsWithinPageBounds": 2136,
     "completeReadingsAndWordNotes": 9,
     "originalJpegsRecoveredExactly": 6
   },

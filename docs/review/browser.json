@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-23T20:52:35.229Z",
-  "workerSha256": "4c9639d605e5038e61e0522cd448ca4ebe3d3f3ac6b281b1ffe680e6e9a1f541",
+  "checkedAt": "2026-11-25T21:33:51.081Z",
+  "workerSha256": "c1c054d0c318c89da5dd6ce8aa107855db7246010075bd30a53cc9474c94440e",
   "configurations": [
     {
       "browser": "chromium",
@@ -299,13 +299,13 @@
       "downloads": [
         {
           "file": "chromium-1440.html",
-          "bytes": 2968753,
-          "sha256": "3bbc704415ffa4843deb0c52c24141ec3b9bff33f80992c477916e890c9aa36a"
+          "bytes": 2973506,
+          "sha256": "4d5530c5a7c5c09eb65652a0dadc3d71e0c64347faf9f169e1037fbd17cf1ef8"
         },
         {
           "file": "chromium-1440.svg",
-          "bytes": 12745,
-          "sha256": "e3c5efa5ed250e7174424f0440c921eead2838f0bbf3efdd00c6c77fae33a0e6"
+          "bytes": 16330,
+          "sha256": "c6533a77ef3fb26e144a2a1e65ad1a202f536add52c6f5ba2ba592e98948d9f5"
         },
         {
           "file": "chromium-1440.csv",
@@ -635,13 +635,13 @@
       "downloads": [
         {
           "file": "chromium-375.html",
-          "bytes": 2968753,
-          "sha256": "3bbc704415ffa4843deb0c52c24141ec3b9bff33f80992c477916e890c9aa36a"
+          "bytes": 2973506,
+          "sha256": "4d5530c5a7c5c09eb65652a0dadc3d71e0c64347faf9f169e1037fbd17cf1ef8"
         },
         {
           "file": "chromium-375.svg",
-          "bytes": 12336,
-          "sha256": "0f2b5714f175e380e4c42296a575765b1d08b3e7581bb07e8f1fc09e03f07094"
+          "bytes": 15921,
+          "sha256": "936ad802a863c8bb7ab46b154e6f58a5001d5665a9ba6bc9c1437a4d7dc26a19"
         },
         {
           "file": "chromium-375.csv",
@@ -971,13 +971,13 @@
       "downloads": [
         {
           "file": "firefox-1440.html",
-          "bytes": 2968753,
-          "sha256": "3bbc704415ffa4843deb0c52c24141ec3b9bff33f80992c477916e890c9aa36a"
+          "bytes": 2973506,
+          "sha256": "4d5530c5a7c5c09eb65652a0dadc3d71e0c64347faf9f169e1037fbd17cf1ef8"
         },
         {
           "file": "firefox-1440.svg",
-          "bytes": 12745,
-          "sha256": "e3c5efa5ed250e7174424f0440c921eead2838f0bbf3efdd00c6c77fae33a0e6"
+          "bytes": 16330,
+          "sha256": "c6533a77ef3fb26e144a2a1e65ad1a202f536add52c6f5ba2ba592e98948d9f5"
         },
         {
           "file": "firefox-1440.csv",
@@ -1307,13 +1307,13 @@
       "downloads": [
         {
           "file": "firefox-375.html",
-          "bytes": 2968753,
-          "sha256": "3bbc704415ffa4843deb0c52c24141ec3b9bff33f80992c477916e890c9aa36a"
+          "bytes": 2973506,
+          "sha256": "4d5530c5a7c5c09eb65652a0dadc3d71e0c64347faf9f169e1037fbd17cf1ef8"
         },
         {
           "file": "firefox-375.svg",
-          "bytes": 12336,
-          "sha256": "0f2b5714f175e380e4c42296a575765b1d08b3e7581bb07e8f1fc09e03f07094"
+          "bytes": 15921,
+          "sha256": "936ad802a863c8bb7ab46b154e6f58a5001d5665a9ba6bc9c1437a4d7dc26a19"
         },
         {
           "file": "firefox-375.csv",

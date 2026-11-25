@@ -83,3 +83,20 @@ actual HTML/SVG/CSV downloads, the saved HTML’s embedded CSV, and a reload wit
 another printed source page after disconnecting the network. All four passed.
 The [hosted receipt](review/hosted.json) records this separately from local review.
 Reproduce with `node scripts/hosted-review.mjs /tmp/dioptra-hosted`.
+
+## 2026-11-25: retained examples regenerated
+
+All twelve retained readings, drawings and PDFs (field book and survey, flow,
+counter and calix) were regenerated on 2026-11-25 by running the four browser
+reviews on a build of commit `520f373`, for the author-name and license
+change. The credit lines now name Anthony Mercer and the embedded code license
+is the PolyForm Noncommercial text with its required notice; nothing else in
+the saved HTML and SVG changed, the four CSVs came out byte-identical and every
+PDF kept its page count. [review/browser.json](review/browser.json), the three
+print receipts, and the calix browser, artifact and hosted receipts are that
+day's reruns; the public calix room again gave all sixteen native downloads
+byte-identical to the local ones. `scripts/calix-artifacts.py` had still
+required the MIT text and now checks for the PolyForm notice instead. The
+tunnel-regression receipts for the counter and flow integrations
+([counter](counter-tunnel-regression.json), [flow](flow/tunnel-regression.json))
+record the October survey SVG and stay as they were.

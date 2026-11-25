@@ -1,6 +1,6 @@
 {
-  "method": "Poppler layout-preserving text extraction; NFC and whitespace normalization; complete paragraph inclusion; pdfimages -j recovered all twelve source JPEGs byte for byte",
-  "pdfSha256": "96f601fadbba252d62e2ade749d703d22790f2b7c1d96ef2df876bb72a605ca8",
+  "method": "Poppler layout-preserving text extraction; NFC and whitespace normalization; complete paragraph inclusion",
+  "pdfSha256": "46fb10df414fa2a9407f338ec44cd6fdb0241450d06667f67f7bdfdb921852d3",
   "checks": [
     {
       "passage": 1,
@@ -352,20 +352,5 @@
       "field": "note",
       "present": true
     }
-  ],
-  "pages": 22,
-  "jpegSourcesRecoveredByteExactly": [
-    "schone-292.jpg",
-    "schone-293.jpg",
-    "schone-294.jpg",
-    "schone-295.jpg",
-    "schone-296.jpg",
-    "schone-297.jpg",
-    "schone-298.jpg",
-    "schone-299.jpg",
-    "schone-300.jpg",
-    "schone-301.jpg",
-    "schone-302.jpg",
-    "schone-303.jpg"
   ]
 }

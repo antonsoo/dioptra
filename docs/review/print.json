@@ -1,6 +1,6 @@
 {
   "method": "Poppler layout-preserving text extraction; NFC and whitespace normalization; complete paragraph inclusion",
-  "pdfSha256": "09a2e6f9b971ef56f74beb08b5864af73f84b9b7f5a0d81d6b7569c548fc30c7",
+  "pdfSha256": "efcdeef3dc080f320f2c18ea2a152a5986df91121e8357165d50fa7e232f8376",
   "checks": [
     {
       "passage": 1,

@@ -11,6 +11,8 @@ import tempfile
 import unicodedata
 import xml.etree.ElementTree as ET
 
+NOTICE='Required Notice: Copyright (c) 2026 Anthony Mercer (https://github.com/antonsoo/dioptra)'
+
 parser=argparse.ArgumentParser()
 parser.add_argument('directory',type=Path)
 a=parser.parse_args()
@@ -45,11 +47,13 @@ for folder in sorted(root.glob('*-*')):
     assert {sha(base64.b64decode(s)) for s in font_blobs}==set(expected_fonts)
     assert text.count('<article class="reading">')==9
     assert 'SIL OPEN FONT LICENSE' in text
-    assert 'Permission is hereby granted' in text
+    # New versions are PolyForm Noncommercial (2026-11-01); the export must embed its notice and terms.
+    assert NOTICE in text and 'PolyForm Noncommercial License 1.0.0' in text
     assert (folder/'reading-offline.html').read_bytes()==file.read_bytes()
     svg=ET.parse(folder/'openings.svg').getroot()
     assert svg.tag=='{http://www.w3.org/2000/svg}svg'
-    assert 'Permission is hereby granted' in ''.join(svg.itertext())
+    svg_text=''.join(svg.itertext())
+    assert NOTICE in svg_text and 'PolyForm Noncommercial License 1.0.0' in svg_text
     circles=svg.findall('{*}circle')
     assert len(circles)==2
     assert float(circles[1].attrib['r'])==2*float(circles[0].attrib['r'])

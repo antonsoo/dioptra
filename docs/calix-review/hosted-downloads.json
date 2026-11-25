@@ -9,19 +9,19 @@
     {
       "configuration": "chromium-1440",
       "file": "openings.svg",
-      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "sha256": "d3eba075eb266c4f6a0d8c5dfaac6209e973a48bd223e96b0cbdf18c5127d4c7",
       "matchesLocal": true
     },
     {
       "configuration": "chromium-1440",
       "file": "reading-online.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     },
     {
       "configuration": "chromium-1440",
       "file": "reading-offline.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     },
     {
@@ -33,19 +33,19 @@
     {
       "configuration": "chromium-375",
       "file": "openings.svg",
-      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "sha256": "d3eba075eb266c4f6a0d8c5dfaac6209e973a48bd223e96b0cbdf18c5127d4c7",
       "matchesLocal": true
     },
     {
       "configuration": "chromium-375",
       "file": "reading-online.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     },
     {
       "configuration": "chromium-375",
       "file": "reading-offline.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     },
     {
@@ -57,19 +57,19 @@
     {
       "configuration": "firefox-1440",
       "file": "openings.svg",
-      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "sha256": "d3eba075eb266c4f6a0d8c5dfaac6209e973a48bd223e96b0cbdf18c5127d4c7",
       "matchesLocal": true
     },
     {
       "configuration": "firefox-1440",
       "file": "reading-online.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     },
     {
       "configuration": "firefox-1440",
       "file": "reading-offline.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     },
     {
@@ -81,19 +81,19 @@
     {
       "configuration": "firefox-375",
       "file": "openings.svg",
-      "sha256": "f127775f04a7c26c11ff788bd4b13e6e608cc24d62f3ad2bd24b22c061c6f9f7",
+      "sha256": "d3eba075eb266c4f6a0d8c5dfaac6209e973a48bd223e96b0cbdf18c5127d4c7",
       "matchesLocal": true
     },
     {
       "configuration": "firefox-375",
       "file": "reading-online.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     },
     {
       "configuration": "firefox-375",
       "file": "reading-offline.html",
-      "sha256": "7bb6c08bc24bb4cd86bb4fe9acf7d20d2f5bf3d7838e1433bcfdae8577938690",
+      "sha256": "26101376538073ca10419b51874a4a3b498861d150d311f8a1a3f8b0422f5a62",
       "matchesLocal": true
     }
   ],
